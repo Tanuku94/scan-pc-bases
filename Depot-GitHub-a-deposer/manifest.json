@@ -1,0 +1,69 @@
+{
+  "version": "2026.10.06.1",
+  "date": "2026-10-06",
+  "fichiers": [
+    {
+      "chemin": "Cartes-graphiques/GPU-Fixe.csv",
+      "sha256": "a66ed04d205de98128d91957f252f3f9cec371210ee1eff13ae09c11e0099d18",
+      "taille": 267351,
+      "lignes": 1150,
+      "colonnes": 26
+    },
+    {
+      "chemin": "Cartes-graphiques/GPU-Portable-Adreno.csv",
+      "sha256": "8bae702e0aeb4c921ee74b250c8c8bcbeeac39366863cc636f0e7bb2327d869a",
+      "taille": 2927,
+      "lignes": 12,
+      "colonnes": 26
+    },
+    {
+      "chemin": "Cartes-graphiques/GPU-Portable.csv",
+      "sha256": "f396f165271114673940d1f0dcc854254746ccf540ced7d7f3f0eba546d4f372",
+      "taille": 157304,
+      "lignes": 674,
+      "colonnes": 26
+    },
+    {
+      "chemin": "Processeurs/AMD-Fixe.csv",
+      "sha256": "abb3497e3dfed1608a94464fb78a45a19699b0f5fbbefbea129d064bdf6af319",
+      "taille": 57961,
+      "lignes": 390,
+      "colonnes": 17
+    },
+    {
+      "chemin": "Processeurs/AMD-Portable.csv",
+      "sha256": "aec88f4fdc7272015418c4ad8115bc22bee6bf616487405c24419cf1927a9838",
+      "taille": 48633,
+      "lignes": 334,
+      "colonnes": 17
+    },
+    {
+      "chemin": "Processeurs/ARM-Portable.csv",
+      "sha256": "bbdfe939638d7bb06e9d80424888748da9b73b406a6c65c21283882117181ddb",
+      "taille": 6342,
+      "lignes": 28,
+      "colonnes": 19
+    },
+    {
+      "chemin": "Processeurs/Base-Processeurs.csv",
+      "sha256": "c20b0e8cbb44dc8391830d18e5921ffc39ff19c8522b4c431247389d33b068c9",
+      "taille": 14583,
+      "lignes": 125,
+      "colonnes": 10
+    },
+    {
+      "chemin": "Processeurs/Intel-Fixe.csv",
+      "sha256": "c11a4a93815f9f62e0f63e359ffc8f7db07c421243bb48be5984a1edc3974b1e",
+      "taille": 69729,
+      "lignes": 493,
+      "colonnes": 15
+    },
+    {
+      "chemin": "Processeurs/Intel-Portable.csv",
+      "sha256": "507360a034d31b74d604dfc4f72628c670200201b93c469e19e2d8a2510ac7cf",
+      "taille": 81014,
+      "lignes": 590,
+      "colonnes": 15
+    }
+  ]
+}

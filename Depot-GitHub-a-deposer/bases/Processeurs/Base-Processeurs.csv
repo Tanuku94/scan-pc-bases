@@ -1,0 +1,126 @@
+﻿Marque;Famille;Segment;Motif;Rang;Generation;NomDeCode;Architecture;Annee;Remarque
+Intel;Core i;Les deux;Core\s+i[3579](?:-|\s)\d{3}[A-Z]{0,2}{E};1;1re génération;Nehalem / Westmere;Nehalem / Westmere;2010;Modèles à 3 chiffres (i5-520M, i7-920...)
+Intel;Core i;Portable;{I}2\d{3}(?:QM|XM|UM|M){E};2;2e génération;Sandy Bridge;Sandy Bridge;2011;
+Intel;Core i;Fixe;{I}2\d{3}{D};2;2e génération;Sandy Bridge;Sandy Bridge;2011;
+Intel;Core i;Portable;{I}3\d{3}(?:QM|XM|UM|M|U|Y){E};3;3e génération;Ivy Bridge;Ivy Bridge;2012;
+Intel;Core i;Fixe;{I}3\d{3}{D};3;3e génération;Ivy Bridge;Ivy Bridge;2012;
+Intel;Core i;Portable;{I}4\d{3}(?:MX|MQ|QM|XM|EQ|HQ|HK|M|U|Y|H){E};4;4e génération;Haswell;Haswell;2013;
+Intel;Core i;Fixe;{I}4\d{3}{D};4;4e génération;Haswell / Devil's Canyon;Haswell;2013;
+Intel;Core i;Portable;{I}5\d{3}(?:HQ|U|Y|H|M){E};5;5e génération;Broadwell;Broadwell;2015;
+Intel;Core i;Fixe;{I}5\d{3}{D};5;5e génération;Broadwell (fixe);Broadwell;2015;Génération très rare sur PC fixe
+Intel;Core i;Portable;{I}6\d{3}(?:HQ|HK|U|Y|H|M){E};6;6e génération;Skylake;Skylake;2015;
+Intel;Core i;Fixe;{I}6\d{3}{D};6;6e génération;Skylake;Skylake;2015;
+Intel;Core i;Portable;{I}7(?:\d{3}(?:HQ|HK|U|H)|Y\d{2}){E};7;7e génération;Kaby Lake;Kaby Lake;2017;Les versions U et Y datent de fin 2016
+Intel;Core i;Fixe;{I}7\d{3}{D};7;7e génération;Kaby Lake;Kaby Lake;2017;
+Intel;Core i;Portable;{I}8[1-6]\d0U{E};8;8e génération;Kaby Lake Refresh;Kaby Lake;2017;
+Intel;Core i;Portable;{I}8[1-6]\d5U{E};8;8e génération;Whiskey Lake;Whiskey Lake;2018;
+Intel;Core i;Portable;{I}8\d{3}Y{E};8;8e génération;Amber Lake;Amber Lake;2018;
+Intel;Core i;Portable;{I}8\d{3}(?:HQ|HK|H){E};8;8e génération;Coffee Lake-H;Coffee Lake;2018;
+Intel;Core i;Portable;{I}8\d{3}U{E};8;8e génération;Coffee Lake-U;Coffee Lake;2018;
+Intel;Core i;Fixe;{I}8\d{3}{D};8;8e génération;Coffee Lake-S;Coffee Lake;2017;
+Intel;Core i;Portable;{I}9\d{3}(?:HK|HF|H){E};9;9e génération;Coffee Lake Refresh-H;Coffee Lake;2019;
+Intel;Core i;Fixe;{I}9\d{3}{D};9;9e génération;Coffee Lake Refresh-S;Coffee Lake;2018;
+Intel;Core i;Portable;{I}10\d{2}G\d{E};10;10e génération;Ice Lake;Sunny Cove;2019;
+Intel;Core i;Portable;{I}10\d{3}(?:U|Y){E};10;10e génération;Comet Lake-U;Skylake (14 nm);2019;
+Intel;Core i;Portable;{I}10\d{3}(?:HK|HF|H){E};10;10e génération;Comet Lake-H;Skylake (14 nm);2020;
+Intel;Core i;Fixe;{I}10\d{3}{D};10;10e génération;Comet Lake-S;Skylake (14 nm);2020;
+Intel;Core i;Portable;{I}11\d{2}G\d{E};11;11e génération;Tiger Lake-U;Willow Cove;2020;
+Intel;Core i;Portable;{I}11\d{3}(?:HK|H){E};11;11e génération;Tiger Lake-H;Willow Cove;2021;
+Intel;Core i;Fixe;{I}11\d{3}{D};11;11e génération;Rocket Lake-S;Cypress Cove;2021;
+Intel;Core i;Portable;{I}12\d{2}(?:PE|UL|U|P){E};12;12e génération;Alder Lake-U/P;Golden Cove;2022;
+Intel;Core i;Portable;{I}12\d{3}(?:HX|HK|HL|H){E};12;12e génération;Alder Lake-H/HX;Golden Cove;2022;
+Intel;Core i;Fixe;{I}12\d{3}{D};12;12e génération;Alder Lake-S;Golden Cove;2021;
+Intel;Core i;Portable;{I}13\d{2}(?:PE|UL|U|P){E};13;13e génération;Raptor Lake-U/P;Raptor Cove;2023;
+Intel;Core i;Portable;{I}13\d{3}(?:HX|HK|HL|H){E};13;13e génération;Raptor Lake-H/HX;Raptor Cove;2023;Certains H (ex. 13420H) reprennent l'architecture Alder Lake
+Intel;Core i;Fixe;{I}13\d{3}{D};13;13e génération;Raptor Lake-S;Raptor Cove;2022;
+Intel;Core i;Portable;{I}14\d{3}(?:HX|HK|H){E};14;14e génération;Raptor Lake Refresh-HX;Raptor Cove;2024;
+Intel;Core i;Fixe;{I}14\d{3}{D};14;14e génération;Raptor Lake Refresh-S;Raptor Cove;2023;
+Intel;Core Ultra;Portable;Core\s+Ultra\s+[579]\s+1\d{2}[A-Z]{0,2}{E};15;Core Ultra série 1;Meteor Lake;Redwood Cove;2023;
+Intel;Core Ultra;Portable;Core\s+Ultra\s+[579]\s+2\d{2}V{E};16;Core Ultra série 2;Lunar Lake;Lion Cove;2024;
+Intel;Core Ultra;Portable;Core\s+Ultra\s+[579]\s+2\d{2}(?:HX|HL|UL|H|U){E};16;Core Ultra série 2;Arrow Lake-H/HX/U;Lion Cove;2025;Les versions U reprennent la base Meteor Lake
+Intel;Core Ultra;Fixe;Core\s+Ultra\s+[3579]\s+2\d{2}[A-Z]{0,2}{E};16;Core Ultra série 2;Arrow Lake-S;Lion Cove;2024;Dernière génération fixe en octobre 2026 (Nova Lake attendu en 2027)
+Intel;Core Ultra;Portable;Core\s+Ultra\s+X?[579]\s+3\d{2}[A-Z]{0,2}{E};17;Core Ultra série 3;Panther Lake;Cougar Cove;2026;Dernière génération portable en octobre 2026
+Intel;Core série 1/2;Les deux;Core\s+[3579]\s+1\d{2}[A-Z]{0,2}{E};14;Core série 1 (base 13e/14e génération);Raptor Lake Refresh;Raptor Cove;2024;Nouveau nom sans « i » ni « Ultra »
+Intel;Core série 1/2;Les deux;Core\s+[3579]\s+2\d{2}[A-Z]{0,2}{E};14;Core série 2 (base 13e/14e génération);Raptor Lake / Bartlett Lake;Raptor Cove;2024;À vérifier
+Intel;Core série 3;Les deux;Core\s+[3579]\s+3\d{2}[A-Z]{0,2}{E};;Core série 3;Wildcat Lake (à vérifier);;2026;Nouveau nom : génération pas encore classée
+Intel;Intel Processor;Fixe;Intel\s+300T?{E};;Intel Processor 300;Raptor Lake (entrée de gamme);Raptor Cove;2024;Entrée de gamme fixe
+Intel;Intel Processor;Portable;Intel\s+U30\d{E};;Intel Processor U300;Raptor Lake (entrée de gamme);Raptor Cove;2023;Entrée de gamme portable
+Intel;Core m;Portable;Core\s+M-5Y\d{2}[a-z]?{E};;Core M;Broadwell-Y;Broadwell;2014;Anciennes puces ultra-basse conso
+Intel;Core i;Portable;{I}L1\dG\d{E};;Lakefield;Lakefield;Sunny Cove / Tremont;2020;Puce hybride rare
+Intel;Core i;Portable;{I}8\d{3}G{E};8;8e génération;Kaby Lake-G;Kaby Lake;2018;Portable avec carte graphique Radeon intégrée au boîtier
+Intel;Core i3-N;Portable;{I}N\d{3}{E};;Alder Lake-N;Alder Lake-N;Gracemont;2023;Entrée de gamme (i3-N305...)
+Intel;Core série 3-N;Portable;Core\s+[357]\s+N\d{3}{E};;Twin Lake;Twin Lake;Gracemont;2025;Entrée de gamme
+Intel;Core m;Portable;Core\s+m[357]-;;Core m;Skylake-Y / Broadwell-Y;Skylake;2015;Anciennes puces ultra-basse conso
+Intel;N-series;Portable;Intel\s+N(?:95|97|100|200){E};;Alder Lake-N;Alder Lake-N;Gracemont;2023;Entrée de gamme
+Intel;N-series;Portable;Intel\s+N(?:150|250){E};;Twin Lake;Twin Lake;Gracemont;2025;Entrée de gamme
+Intel;Celeron / Pentium;Portable;(?:Celeron|Pentium)\s+(?:Silver\s+)?[NJ](?:450[05]|5095|5100|5105|6\d{3}){E};;Jasper Lake;Jasper Lake;Tremont;2021;Entrée de gamme
+Intel;Celeron / Pentium;Portable;(?:Celeron|Pentium)\s+(?:Silver\s+)?[NJ][45]\d{3}{E};;Gemini Lake;Gemini Lake;Goldmont Plus;2017;Entrée de gamme. Versions actualisées (N4020, N4120, N5030) : 2019
+Intel;Celeron / Pentium;Les deux;(?:Celeron|Pentium)\s+[NJ][12]\d{3}{E};;Bay Trail;Bay Trail;Silvermont;2013;Entrée de gamme, ancien (N = portable, J = fixe)
+Intel;Celeron / Pentium;Les deux;(?:Celeron|Pentium)\s+[NJ]3[01]\d{2}{E};;Braswell;Braswell;Airmont;2015;Entrée de gamme, ancien
+Intel;Celeron / Pentium;Les deux;(?:Celeron|Pentium)\s+[NJ]3[2-9]\d{2}{E};;Apollo Lake;Apollo Lake;Goldmont;2016;Entrée de gamme, ancien
+Intel;Celeron / Pentium;Fixe;Pentium\s+(?:Gold\s+)?G4[0-5]\d{2}{E};;Pentium Skylake;Skylake;Skylake;2015;
+Intel;Celeron / Pentium;Fixe;Pentium\s+(?:Gold\s+)?G4[6-9]\d{2}{E};;Pentium Kaby Lake;Kaby Lake;Kaby Lake;2017;
+Intel;Celeron / Pentium;Fixe;Pentium\s+(?:Gold\s+)?G5\d{3}[A-Z]{0,2}{E};;Pentium Coffee Lake;Coffee Lake;Coffee Lake;2018;
+Intel;Celeron / Pentium;Fixe;Pentium\s+(?:Gold\s+)?G6\d{3}[A-Z]{0,2}{E};;Pentium Comet Lake;Comet Lake;Comet Lake;2020;
+Intel;Celeron / Pentium;Fixe;Pentium\s+(?:Gold\s+)?G7\d{3}[A-Z]{0,2}{E};;Pentium Alder Lake;Alder Lake;Alder Lake;2022;
+Intel;Celeron / Pentium;Fixe;Celeron\s+G39[0-2]\d[A-Z]{0,2}{E};;Celeron Skylake;Skylake;Skylake;2015;
+Intel;Celeron / Pentium;Fixe;Celeron\s+G39[3-9]\d[A-Z]{0,2}{E};;Celeron Kaby Lake;Kaby Lake;Kaby Lake;2017;
+Intel;Celeron / Pentium;Fixe;Celeron\s+G49\d{2}[A-Z]{0,2}{E};;Celeron Coffee Lake;Coffee Lake;Coffee Lake;2018;
+Intel;Celeron / Pentium;Fixe;Celeron\s+G59\d{2}[A-Z]{0,2}{E};;Celeron Comet Lake;Comet Lake;Comet Lake;2020;
+Intel;Celeron / Pentium;Fixe;Celeron\s+G69\d{2}[A-Z]{0,2}{E};;Celeron Alder Lake;Alder Lake;Alder Lake;2022;
+Intel;Celeron / Pentium;Portable;Celeron\s+7[23]\d{2}[A-Z]{0,2}{E};;Celeron 7000;Alder Lake;Golden Cove;2022;Entrée de gamme
+Intel;Celeron / Pentium;Portable;Celeron\s+6\d{3}[A-Z]{0,2}{E};;Celeron 6000;Tiger Lake;Willow Cove;2020;Entrée de gamme
+Intel;Celeron / Pentium;Portable;Celeron\s+5[23]\d{2}U{E};;Celeron 5000;Comet Lake-U;Skylake (14 nm);2019;Entrée de gamme
+Intel;Celeron / Pentium;Portable;Celeron\s+4[23]\d{2}U{E};;Celeron 4000;Whiskey Lake-U;Skylake (14 nm);2019;Entrée de gamme
+Intel;Celeron / Pentium;Portable;Celeron\s+3[89]65U{E};;Celeron 3000;Kaby Lake-U;Kaby Lake;2017;Entrée de gamme
+Intel;Celeron / Pentium;Portable;Celeron\s+3[89]55U{E};;Celeron 3000;Skylake-U;Skylake;2015;Entrée de gamme
+Intel;Celeron / Pentium;Les deux;Celeron|Pentium;;Celeron / Pentium (génération non suivie);;;;Ancien ou entrée de gamme : modèle précis absent de la base
+Intel;Xeon;Les deux;Xeon;;Xeon (station de travail / serveur);;;;Génération non suivie
+Intel;Atom;Les deux;\bAtom\b;;Atom;;;;Ancien processeur très basse conso
+AMD;Ryzen AI;Portable;Ryzen\s+AI\s+Max\+?\s+(?:PRO\s+)?3\d{2}{E};10;Ryzen AI 300;Strix Halo;Zen 5;2025;Haut de gamme portable / mini PC
+AMD;Ryzen AI;Portable;Ryzen\s+AI\s+(?:[3579]\s+)?(?:HX\s+)?(?:PRO\s+)?4\d{2}{E};11;Ryzen AI 400;Gorgon Point;Zen 5;2026;Dernière génération portable en octobre 2026
+AMD;Ryzen AI;Portable;Ryzen\s+AI\s+(?:[3579]\s+)?(?:HX\s+)?(?:PRO\s+)?3\d{2}{E};10;Ryzen AI 300;Strix Point / Krackan Point;Zen 5;2024;Strix Point : 2024, Krackan Point : 2025
+AMD;Ryzen;Portable;{R}2\d{2}{E};8;Ryzen 200;Hawk Point;Zen 4;2025;ATTENTION : nom récent mais puce de génération Ryzen 8000
+AMD;Ryzen;Portable;{R}1\d{2}{E};6;Ryzen 100;Rembrandt (ou Hawk Point pour les x5 et le 180);Zen 3+;2025;ATTENTION : nom récent mais puce ancienne (génération Ryzen 6000)
+AMD;Ryzen;Portable;{R}[34]0{E};7;Ryzen 10;Mendocino;Zen 2;2025;ATTENTION : nom récent mais puce de 2022 (génération Ryzen 7020)
+AMD;Ryzen;Portable;{R}4\d{2}{E};11;Ryzen 400;Gorgon Point;Zen 5;2026;Dernière génération portable
+AMD;Ryzen AI;Fixe;Ryzen\s+AI\s+[3579]\s+4\d{2}(?:GE|G){E};11;Ryzen AI 400;Gorgon Point (AM5);Zen 5;2026;Dernière génération fixe (processeurs AM5 à carte graphique intégrée)
+AMD;Ryzen;Portable;{R}9\d{3}(?:HX3D|HX){E};9;Ryzen 9000;Fire Range;Zen 5;2025;
+AMD;Ryzen;Fixe;{R}9\d{3}(?:X3D|XT|X|F)?{E};9;Ryzen 9000;Granite Ridge;Zen 5;2024;
+AMD;Ryzen;Portable;{R}8\d{3}(?:HX|HS|H|U){E};8;Ryzen 8000;Hawk Point;Zen 4;2024;
+AMD;Ryzen;Fixe;{R}8\d{3}(?:GE|G){E};8;Ryzen 8000G;Phoenix (APU fixe);Zen 4;2024;
+AMD;Ryzen;Portable;{R}7[2-5]20(?:U|C){E};7;Ryzen 7000;Mendocino;Zen 2;2022;ATTENTION : nom de série 7000 mais architecture Zen 2 ancienne
+AMD;Ryzen;Portable;{R}7[4-7]30U{E};7;Ryzen 7000;Barcelo-R;Zen 3;2023;ATTENTION : nom de série 7000 mais architecture Zen 3
+AMD;Ryzen;Portable;{R}7[3-7]35(?:HS|H|U){E};7;Ryzen 7000;Rembrandt-R;Zen 3+;2023;ATTENTION : nom de série 7000 mais architecture Zen 3+
+AMD;Ryzen;Portable;{R}7\d45(?:HX3D|HX){E};7;Ryzen 7000;Dragon Range;Zen 4;2023;
+AMD;Ryzen;Portable;{R}7\d40(?:HS|HX|H|U){E};7;Ryzen 7000;Phoenix;Zen 4;2023;
+AMD;Ryzen;Fixe;{R}7\d{3}(?:X3D|XT|X|F)?{E};7;Ryzen 7000;Raphael;Zen 4;2022;
+AMD;Ryzen;Portable;{R}6\d{3}(?:HX|HS|H|U){E};6;Ryzen 6000;Rembrandt;Zen 3+;2022;
+AMD;Ryzen;Portable;{R}5[3-7]00U{E};5;Ryzen 5000;Lucienne;Zen 2;2021;ATTENTION : nom de série 5000 mais architecture Zen 2
+AMD;Ryzen;Portable;{R}5[6-8]25U{E};5;Ryzen 5000;Barcelo;Zen 3;2022;
+AMD;Ryzen;Portable;{R}5[4-9]\d{2}(?:HX|HS|H|U){E};5;Ryzen 5000;Cezanne;Zen 3;2021;
+AMD;Ryzen;Fixe;{R}5[5-7]\d{2}(?:GE|GT|G){E};5;Ryzen 5000G;Cezanne (APU fixe);Zen 3;2021;
+AMD;Ryzen;Fixe;{R}5\d{3}(?:X3D|XT|X)?{E};5;Ryzen 5000;Vermeer / Cezanne;Zen 3;2020;
+AMD;Ryzen;Portable;{R}4\d{3}(?:HX|HS|H|U){E};4;Ryzen 4000;Renoir;Zen 2;2020;
+AMD;Ryzen;Fixe;{R}4\d{3}(?:GE|G){E};4;Ryzen 4000G;Renoir (APU fixe);Zen 2;2020;
+AMD;Ryzen;Fixe;{R}4\d{3}{E};4;Ryzen 4000;Renoir / Vermeer-Lite;Zen 2;2022;Ryzen 4100 / 4500
+AMD;Ryzen;Portable;{R}3\d{3}(?:HS|H|U){E};3;Ryzen 3000;Picasso;Zen+;2019;
+AMD;Ryzen;Fixe;{R}3[24]00(?:GE|G){E};3;Ryzen 3000G;Picasso (APU fixe);Zen+;2019;
+AMD;Ryzen;Fixe;{R}3\d{3}(?:XT|X)?{E};3;Ryzen 3000;Matisse;Zen 2;2019;
+AMD;Ryzen;Portable;{R}2\d{3}(?:H|U){E};2;Ryzen 2000;Raven Ridge;Zen;2018;
+AMD;Ryzen;Fixe;{R}2[24]00(?:GE|G){E};2;Ryzen 2000G;Raven Ridge (APU fixe);Zen;2018;
+AMD;Ryzen;Fixe;{R}2\d{3}X?{E};2;Ryzen 2000;Pinnacle Ridge;Zen+;2018;
+AMD;Ryzen;Fixe;{R}1\d{3}X?{E};1;Ryzen 1000;Summit Ridge;Zen;2017;
+AMD;Athlon;Les deux;Athlon\s+(?:Silver|Gold|PRO)?\s*\d{3,4}(?:GE|G|U|e){E};;Athlon (Zen);Dali / Picasso;Zen / Zen 2;2020;Entrée de gamme
+AMD;FX;Fixe;FX-\d{4};;FX;Bulldozer / Piledriver;Bulldozer;2012;Ancien processeur fixe
+AMD;APU série A;Les deux;\bA(?:4|6|8|9|10|12)-\d{4};;APU série A;Trinity à Bristol Ridge;Piledriver / Excavator;2014;Ancien
+AMD;Ancien;Les deux;Athlon|Sempron|Phenom|Opteron|\bE[12]-\d{3,4}|\bC-\d{2};;AMD ancien (génération non suivie);;;;
+Qualcomm;Snapdragon X2;Portable;Snapdragon.*X2\s+(?:Elite|Plus);5;Snapdragon X2;;Oryon v3;2026;Windows sur ARM : certains logiciels ou pilotes anciens peuvent être incompatibles
+Qualcomm;Snapdragon X;Portable;Snapdragon.*\bX\s+(?:Elite|Plus)\b|Snapdragon\s+X\s*-\s*X1;4;Snapdragon X;;Oryon;2024;Windows sur ARM : certains logiciels ou pilotes anciens peuvent être incompatibles
+Qualcomm;Snapdragon X;Portable;Snapdragon.*\bX\b;4;Snapdragon X;;Oryon;2025;Windows sur ARM : certains logiciels ou pilotes anciens peuvent être incompatibles
+Qualcomm;Microsoft SQ;Portable;Microsoft\s+SQ\s?3{E};3;Microsoft SQ3;SQ3;Kryo (ARM);2022;Windows sur ARM : certains logiciels ou pilotes anciens peuvent être incompatibles
+Qualcomm;Microsoft SQ;Portable;Microsoft\s+SQ\s?2{E};2;Microsoft SQ2;SQ2;Kryo 495 (ARM);2020;Windows sur ARM : certains logiciels ou pilotes anciens peuvent être incompatibles
+Qualcomm;Microsoft SQ;Portable;Microsoft\s+SQ\s?1{E};1;Microsoft SQ1;SQ1;Kryo 495 (ARM);2019;Windows sur ARM : certains logiciels ou pilotes anciens peuvent être incompatibles
+Qualcomm;Snapdragon 8cx / 7c / 8c;Portable;Snapdragon.*(?:8cx|7c\+?)\s+Gen\s*3;3;Snapdragon Gen 3;;Kryo;2022;Windows sur ARM : certains logiciels ou pilotes anciens peuvent être incompatibles
+Qualcomm;Snapdragon 8cx / 7c / 8c;Portable;Snapdragon.*(?:8cx|7c)\s+Gen\s*2;2;Snapdragon Gen 2;;Kryo;2020;Windows sur ARM : certains logiciels ou pilotes anciens peuvent être incompatibles
+Qualcomm;Snapdragon 8cx / 7c / 8c;Portable;Snapdragon.*(?:8cx|7c|8c){E};1;Snapdragon 8cx / 7c / 8c;;Kryo;2019;Windows sur ARM : certains logiciels ou pilotes anciens peuvent être incompatibles

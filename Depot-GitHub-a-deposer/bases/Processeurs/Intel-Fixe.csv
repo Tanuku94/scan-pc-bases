@@ -1,0 +1,494 @@
+﻿Cle;Modele;Famille;Generation;Rang;NomDeCode;Architecture;Lancement;Annee;Coeurs;FreqBase;FreqTurbo;Cache;TDP;Source
+celeron g6900;Celeron G6900;Intel Celeron / Pentium;Celeron Alder Lake;;Alder Lake;Alder Lake;T1 2022;2022;2;;;4 MB Smart Cache;;Intel
+celeron g6900t;Celeron G6900T;Intel Celeron / Pentium;Celeron Alder Lake;;Alder Lake;Alder Lake;T1 2022;2022;2;;;4 MB Smart Cache;;Intel
+pentium 8500;Pentium Gold 8500;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2022;2022;5;;4.40 GHz;8 MB Smart Cache;;Intel
+pentium 8505;Pentium Gold 8505;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2022;2022;5;;4.40 GHz;8 MB Smart Cache;;Intel
+pentium g7400;Pentium Gold G7400;Intel Celeron / Pentium;Pentium Alder Lake;;Alder Lake;Alder Lake;T1 2022;2022;2;;;6 MB Smart Cache;;Intel
+pentium g7400t;Pentium Gold G7400T;Intel Celeron / Pentium;Pentium Alder Lake;;Alder Lake;Alder Lake;T1 2022;2022;2;;;6 MB Smart Cache;;Intel
+pentium g6405;Pentium Gold G6405;Intel Celeron / Pentium;Pentium Comet Lake;;Comet Lake;Comet Lake;T1 2021;2021;2;4.10 GHz;;4 MB Smart Cache;58;Intel
+pentium g6405t;Pentium Gold G6405T;Intel Celeron / Pentium;Pentium Comet Lake;;Comet Lake;Comet Lake;T1 2021;2021;2;3.50 GHz;;4 MB Smart Cache;35;Intel
+pentium g6505;Pentium Gold G6505;Intel Celeron / Pentium;Pentium Comet Lake;;Comet Lake;Comet Lake;T1 2021;2021;2;4.20 GHz;;4 MB Smart Cache;58;Intel
+pentium g6505t;Pentium Gold G6505T;Intel Celeron / Pentium;Pentium Comet Lake;;Comet Lake;Comet Lake;T1 2021;2021;2;3.60 GHz;;4 MB Smart Cache;35;Intel
+pentium g6605;Pentium Gold G6605;Intel Celeron / Pentium;Pentium Comet Lake;;Comet Lake;Comet Lake;T1 2021;2021;2;4.30 GHz;;4 MB Smart Cache;58;Intel
+celeron g5900;Celeron G5900;Intel Celeron / Pentium;Celeron Comet Lake;;Comet Lake;Comet Lake;T2 2020;2020;2;3.40 GHz;;2 MB Smart Cache;58;Intel
+celeron g5900t;Celeron G5900T;Intel Celeron / Pentium;Celeron Comet Lake;;Comet Lake;Comet Lake;T2 2020;2020;2;3.20 GHz;;2 MB Smart Cache;35;Intel
+celeron g5905;Celeron G5905;Intel Celeron / Pentium;Celeron Comet Lake;;Comet Lake;Comet Lake;T3 2020;2020;2;3.50 GHz;;4 MB Smart Cache;58;Intel
+celeron g5905t;Celeron G5905T;Intel Celeron / Pentium;Celeron Comet Lake;;Comet Lake;Comet Lake;T3 2020;2020;2;3.30 GHz;;4 MB Smart Cache;35;Intel
+celeron g5920;Celeron G5920;Intel Celeron / Pentium;Celeron Comet Lake;;Comet Lake;Comet Lake;T2 2020;2020;2;3.50 GHz;;2 MB Smart Cache;58;Intel
+celeron g5925;Celeron G5925;Intel Celeron / Pentium;Celeron Comet Lake;;Comet Lake;Comet Lake;T3 2020;2020;2;3.60 GHz;;4 MB Smart Cache;58;Intel
+pentium 7505;Pentium Gold 7505;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T4 2020;2020;2;;3.50 GHz;4 MB Smart Cache;;Intel
+pentium g6400;Pentium Gold G6400;Intel Celeron / Pentium;Pentium Comet Lake;;Comet Lake;Comet Lake;T2 2020;2020;2;4.00 GHz;;4 MB Smart Cache;58;Intel
+pentium g6400t;Pentium Gold G6400T;Intel Celeron / Pentium;Pentium Comet Lake;;Comet Lake;Comet Lake;T2 2020;2020;2;3.40 GHz;;4 MB Smart Cache;35;Intel
+pentium g6500;Pentium Gold G6500;Intel Celeron / Pentium;Pentium Comet Lake;;Comet Lake;Comet Lake;T2 2020;2020;2;4.10 GHz;;4 MB Smart Cache;58;Intel
+pentium g6500t;Pentium Gold G6500T;Intel Celeron / Pentium;Pentium Comet Lake;;Comet Lake;Comet Lake;T2 2020;2020;2;3.50 GHz;;4 MB Smart Cache;35;Intel
+pentium g6600;Pentium Gold G6600;Intel Celeron / Pentium;Pentium Comet Lake;;Comet Lake;Comet Lake;T2 2020;2020;2;4.20 GHz;;4 MB Smart Cache;58;Intel
+celeron g4930;Celeron G4930;Intel Celeron / Pentium;Celeron Coffee Lake;;Coffee Lake;Coffee Lake;T2 2019;2019;2;3.20 GHz;;2 MB Smart Cache;54;Intel
+celeron g4930t;Celeron G4930T;Intel Celeron / Pentium;Celeron Coffee Lake;;Coffee Lake;Coffee Lake;T2 2019;2019;2;3.00 GHz;;2 MB Smart Cache;35;Intel
+celeron g4950;Celeron G4950;Intel Celeron / Pentium;Celeron Coffee Lake;;Coffee Lake;Coffee Lake;T2 2019;2019;2;3.30 GHz;;2 MB Smart Cache;54;Intel
+pentium g5420;Pentium Gold G5420;Intel Celeron / Pentium;Pentium Coffee Lake;;Coffee Lake;Coffee Lake;T2 2019;2019;2;3.80 GHz;;4 MB Smart Cache;54;Intel
+pentium g5420t;Pentium Gold G5420T;Intel Celeron / Pentium;Pentium Coffee Lake;;Coffee Lake;Coffee Lake;T2 2019;2019;2;3.20 GHz;;4 MB Smart Cache;35;Intel
+pentium g5600t;Pentium Gold G5600T;Intel Celeron / Pentium;Pentium Coffee Lake;;Coffee Lake;Coffee Lake;T2 2019;2019;2;3.30 GHz;;4 MB Smart Cache;35;Intel
+pentium g5620;Pentium Gold G5620;Intel Celeron / Pentium;Pentium Coffee Lake;;Coffee Lake;Coffee Lake;T2 2019;2019;2;4.00 GHz;;4 MB Smart Cache;54;Intel
+celeron g4900;Celeron G4900;Intel Celeron / Pentium;Celeron Coffee Lake;;Coffee Lake;Coffee Lake;T2 2018;2018;2;3.10 GHz;;2 MB Smart Cache;54;Intel
+celeron g4900t;Celeron G4900T;Intel Celeron / Pentium;Celeron Coffee Lake;;Coffee Lake;Coffee Lake;T2 2018;2018;2;2.90 GHz;;2 MB Smart Cache;35;Intel
+celeron g4920;Celeron G4920;Intel Celeron / Pentium;Celeron Coffee Lake;;Coffee Lake;Coffee Lake;T2 2018;2018;2;3.20 GHz;;2 MB Smart Cache;54;Intel
+pentium g5400;Pentium Gold G5400;Intel Celeron / Pentium;Pentium Coffee Lake;;Coffee Lake;Coffee Lake;T2 2018;2018;2;3.70 GHz;;4 MB Smart Cache;58;Intel
+pentium g5400t;Pentium Gold G5400T;Intel Celeron / Pentium;Pentium Coffee Lake;;Coffee Lake;Coffee Lake;T2 2018;2018;2;3.10 GHz;;4 MB Smart Cache;35;Intel
+pentium g5500;Pentium Gold G5500;Intel Celeron / Pentium;Pentium Coffee Lake;;Coffee Lake;Coffee Lake;T2 2018;2018;2;3.80 GHz;;4 MB Smart Cache;54;Intel
+pentium g5500t;Pentium Gold G5500T;Intel Celeron / Pentium;Pentium Coffee Lake;;Coffee Lake;Coffee Lake;T2 2018;2018;2;3.20 GHz;;4 MB Smart Cache;35;Intel
+pentium g5600;Pentium Gold G5600;Intel Celeron / Pentium;Pentium Coffee Lake;;Coffee Lake;Coffee Lake;T2 2018;2018;2;3.90 GHz;;4 MB Smart Cache;54;Intel
+celeron g3930;Celeron G3930;Intel Celeron / Pentium;Celeron Kaby Lake;;Kaby Lake;Kaby Lake;T1 2017;2017;2;2.90 GHz;;2 MB;51;Intel
+celeron g3930t;Celeron G3930T;Intel Celeron / Pentium;Celeron Kaby Lake;;Kaby Lake;Kaby Lake;T1 2017;2017;2;2.70 GHz;;2 MB;35;Intel
+celeron g3950;Celeron G3950;Intel Celeron / Pentium;Celeron Kaby Lake;;Kaby Lake;Kaby Lake;T1 2017;2017;2;3.00 GHz;;2 MB;51;Intel
+pentium g4560;Pentium G4560;Intel Celeron / Pentium;Pentium Skylake;;Skylake;Skylake;T1 2017;2017;2;3.50 GHz;;3 MB;54;Intel
+pentium g4560t;Pentium G4560T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2017;2017;2;2.90 GHz;;3 MB;35;Intel
+pentium g4600;Pentium G4600;Intel Celeron / Pentium;Pentium Kaby Lake;;Kaby Lake;Kaby Lake;T1 2017;2017;2;3.60 GHz;;3 MB;51;Intel
+pentium g4600t;Pentium G4600T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2017;2017;2;3.00 GHz;;3 MB;35;Intel
+pentium g4620;Pentium G4620;Intel Celeron / Pentium;Pentium Kaby Lake;;Kaby Lake;Kaby Lake;T1 2017;2017;2;3.70 GHz;;3 MB;51;Intel
+celeron j3060;Celeron J3060;Intel Celeron / Pentium;Braswell;;Braswell;Airmont;T1 2016;2016;2;1.60 GHz;;2 MB L2 Cache;6;Intel
+celeron j3160;Celeron J3160;Intel Celeron / Pentium;Braswell;;Braswell;Airmont;T1 2016;2016;4;1.60 GHz;;2 MB L2 Cache;6;Intel
+celeron j3355;Celeron J3355;Intel Celeron / Pentium;Apollo Lake;;Apollo Lake;Goldmont;T3 2016;2016;2;2.00 GHz;;2 MB;10;Intel
+celeron j3455;Celeron J3455;Intel Celeron / Pentium;Apollo Lake;;Apollo Lake;Goldmont;T3 2016;2016;4;1.50 GHz;;2 MB;10;Intel
+pentium j3710;Pentium J3710;Intel Celeron / Pentium;Apollo Lake;;Apollo Lake;Goldmont;T1 2016;2016;4;1.60 GHz;;2 MB L2 Cache;6.5;Intel
+celeron g3900;Celeron G3900;Intel Celeron / Pentium;Celeron Skylake;;Skylake;Skylake;T4 2015;2015;2;2.80 GHz;;2 MB Smart Cache;51;Intel
+celeron g3900t;Celeron G3900T;Intel Celeron / Pentium;Celeron Skylake;;Skylake;Skylake;T4 2015;2015;2;2.60 GHz;;2 MB Smart Cache;35;Intel
+celeron g3920;Celeron G3920;Intel Celeron / Pentium;Celeron Skylake;;Skylake;Skylake;T4 2015;2015;2;2.90 GHz;;2 MB Smart Cache;51;Intel
+pentium g3260;Pentium G3260;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2015;2015;2;3.30 GHz;;3 MB;53;Intel
+pentium g3260t;Pentium G3260T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2015;2015;2;2.90 GHz;;3 MB;35;Intel
+pentium g3460t;Pentium G3460T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2015;2015;2;3.00 GHz;;3 MB;35;Intel
+pentium g3470;Pentium G3470;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2015;2015;2;3.60 GHz;;3 MB;53;Intel
+pentium g4400;Pentium G4400;Intel Celeron / Pentium;Pentium Skylake;;Skylake;Skylake;T3 2015;2015;2;3.30 GHz;;3 MB Smart Cache;54;Intel
+pentium g4400t;Pentium G4400T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2015;2015;2;2.90 GHz;;3 MB Smart Cache;35;Intel
+pentium g4500;Pentium G4500;Intel Celeron / Pentium;Pentium Skylake;;Skylake;Skylake;T3 2015;2015;2;3.50 GHz;;3 MB Smart Cache;51;Intel
+pentium g4500t;Pentium G4500T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2015;2015;2;3.00 GHz;;3 MB Smart Cache;35;Intel
+pentium g4520;Pentium G4520;Intel Celeron / Pentium;Pentium Skylake;;Skylake;Skylake;T3 2015;2015;2;3.60 GHz;;3 MB Smart Cache;51;Intel
+celeron g1820;Celeron G1820;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2014;2014;2;2.70 GHz;;2 MB Smart Cache;53;Intel
+celeron g1820t;Celeron G1820T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2014;2014;2;2.40 GHz;;2 MB Smart Cache;35;Intel
+celeron g1830;Celeron G1830;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2014;2014;2;2.80 GHz;;2 MB Smart Cache;53;Intel
+celeron g1840;Celeron G1840;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T2 2014;2014;2;2.80 GHz;;2 MB;53;Intel
+celeron g1840t;Celeron G1840T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T2 2014;2014;2;2.50 GHz;;2 MB;35;Intel
+celeron g1850;Celeron G1850;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T2 2014;2014;2;2.90 GHz;;2 MB;53;Intel
+pentium 1405;Pentium 1405 v2;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2014;2014;2;1.40 GHz;;6 MB Smart Cache;40;Intel
+pentium g3240;Pentium G3240;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T2 2014;2014;2;3.10 GHz;;3 MB Smart Cache;53;Intel
+pentium g3240t;Pentium G3240T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T2 2014;2014;2;2.70 GHz;;3 MB Smart Cache;35;Intel
+pentium g3250;Pentium G3250;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2014;2014;2;3.20 GHz;;3 MB Smart Cache;53;Intel
+pentium g3250t;Pentium G3250T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2014;2014;2;2.80 GHz;;3 MB Smart Cache;35;Intel
+pentium g3258;Pentium G3258;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T2 2014;2014;2;3.20 GHz;;3 MB;53;Intel
+pentium g3440;Pentium G3440;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T2 2014;2014;2;3.30 GHz;;3 MB Smart Cache;53;Intel
+pentium g3440t;Pentium G3440T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T2 2014;2014;2;2.80 GHz;;3 MB Smart Cache;35;Intel
+pentium g3450;Pentium G3450;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T2 2014;2014;2;3.40 GHz;;3 MB Smart Cache;53;Intel
+pentium g3450t;Pentium G3450T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2014;2014;2;2.90 GHz;;3 MB Smart Cache;35;Intel
+pentium g3460;Pentium G3460;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2014;2014;2;3.50 GHz;;3 MB Smart Cache;53;Intel
+celeron g1610;Celeron G1610;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2013;2013;2;2.60 GHz;;2 MB Smart Cache;55;Intel
+celeron g1610t;Celeron G1610T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2013;2013;2;2.30 GHz;;2 MB Smart Cache;35;Intel
+celeron g1620;Celeron G1620;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2013;2013;2;2.70 GHz;;2 MB Smart Cache;55;Intel
+celeron g1620t;Celeron G1620T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2013;2013;2;2.40 GHz;;2 MB Smart Cache;35;Intel
+celeron g1630;Celeron G1630;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2013;2013;2;2.80 GHz;;2 MB Smart Cache;55;Intel
+celeron j1750;Celeron J1750;Intel Celeron / Pentium;Bay Trail;;Bay Trail;Silvermont;T3 2013;2013;2;2.41 GHz;;1 MB L2 Cache;10;Intel
+celeron j1800;Celeron J1800;Intel Celeron / Pentium;Bay Trail;;Bay Trail;Silvermont;T4 2013;2013;2;2.41 GHz;;1 MB L2 Cache;10;Intel
+celeron j1850;Celeron J1850;Intel Celeron / Pentium;Bay Trail;;Bay Trail;Silvermont;T3 2013;2013;4;2.00 GHz;;2 MB L2 Cache;10;Intel
+celeron j1900;Celeron J1900;Intel Celeron / Pentium;Bay Trail;;Bay Trail;Silvermont;T4 2013;2013;4;2.00 GHz;;2 MB L2 Cache;10;Intel
+pentium a1018;Pentium A1018;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2013;2013;2;2.10 GHz;;1 MB Smart Cache;35;Intel
+pentium g2010;Pentium G2010;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2013;2013;2;2.80 GHz;;3 MB Smart Cache;55;Intel
+pentium g2020;Pentium G2020;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2013;2013;2;2.90 GHz;;3 MB Smart Cache;55;Intel
+pentium g2020t;Pentium G2020T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2013;2013;2;2.50 GHz;;3 MB Smart Cache;35;Intel
+pentium g2030;Pentium G2030;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T2 2013;2013;2;3.00 GHz;;3 MB Smart Cache;55;Intel
+pentium g2030t;Pentium G2030T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T2 2013;2013;2;2.60 GHz;;3 MB Smart Cache;35;Intel
+pentium g2120t;Pentium G2120T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T2 2013;2013;2;2.70 GHz;;3 MB Smart Cache;35;Intel
+pentium g2130;Pentium G2130;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T1 2013;2013;2;3.20 GHz;;3 MB Smart Cache;55;Intel
+pentium g2140;Pentium G2140;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T2 2013;2013;2;3.30 GHz;;3 MB Smart Cache;55;Intel
+pentium g3220;Pentium G3220;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2013;2013;2;3.00 GHz;;3 MB Smart Cache;53;Intel
+pentium g3220t;Pentium G3220T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2013;2013;2;2.60 GHz;;3 MB Smart Cache;35;Intel
+pentium g3420;Pentium G3420;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2013;2013;2;3.20 GHz;;3 MB Smart Cache;53;Intel
+pentium g3420t;Pentium G3420T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2013;2013;2;2.70 GHz;;3 MB Smart Cache;35;Intel
+pentium g3430;Pentium G3430;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2013;2013;2;3.30 GHz;;3 MB Smart Cache;53;Intel
+pentium j2850;Pentium J2850;Intel Celeron / Pentium;Bay Trail;;Bay Trail;Silvermont;T3 2013;2013;4;2.41 GHz;;2 MB L2 Cache;10;Intel
+pentium j2900;Pentium J2900;Intel Celeron / Pentium;Bay Trail;;Bay Trail;Silvermont;T4 2013;2013;4;2.41 GHz;;2 MB L2 Cache;10;Intel
+pentium g2100t;Pentium G2100T;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2012;2012;2;2.60 GHz;;3 MB Smart Cache;35;Intel
+pentium g2120;Pentium G2120;Intel Celeron / Pentium;Celeron / Pentium (génération non suivie);;;;T3 2012;2012;2;3.10 GHz;;3 MB Smart Cache;55;Intel
+ultra 5 250k;Core Ultra 5 250K Plus;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T1 2026;2026;18;30 MB Intel® Smart Cache;5.3 GHz;;;Intel
+ultra 5 250kf;Core Ultra 5 250KF Plus;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T1 2026;2026;18;30 MB Intel® Smart Cache;5.3 GHz;;;Intel
+ultra 7 270k;Core Ultra 7 270K Plus;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T1 2026;2026;24;36 MB Intel® Smart Cache;5.5 GHz;;;Intel
+ultra 5 225;Core Ultra 5 225;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T1 2025;2025;10;20 MB Intel® Smart Cache;4.9 GHz;;;Intel
+ultra 5 225f;Core Ultra 5 225F;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T1 2025;2025;10;20 MB Intel® Smart Cache;4.9 GHz;;;Intel
+ultra 5 225t;Core Ultra 5 225T;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T1 2025;2025;10;20 MB Intel® Smart Cache;4.9 GHz;;;Intel
+ultra 5 235;Core Ultra 5 235;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T1 2025;2025;14;24 MB Intel® Smart Cache;5 GHz;;;Intel
+ultra 5 235a;Core Ultra 5 235A;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T3 2025;2025;14;24 MB Intel® Smart Cache;5 GHz;;;Intel
+ultra 5 235t;Core Ultra 5 235T;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T1 2025;2025;14;24 MB Intel® Smart Cache;5 GHz;;;Intel
+ultra 5 235ta;Core Ultra 5 235TA;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T3 2025;2025;14;24 MB Intel® Smart Cache;5 GHz;;;Intel
+ultra 5 235ua;Core Ultra 5 235UA;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T3 2025;2025;10;12 MB Intel® Smart Cache;4.9 GHz;;;Intel
+ultra 5 245;Core Ultra 5 245;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T1 2025;2025;14;24 MB Intel® Smart Cache;5.1 GHz;;;Intel
+ultra 5 245t;Core Ultra 5 245T;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T1 2025;2025;14;24 MB Intel® Smart Cache;5.1 GHz;;;Intel
+ultra 7 265;Core Ultra 7 265;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T1 2025;2025;20;30 MB Intel® Smart Cache;5.3 GHz;;;Intel
+ultra 7 265f;Core Ultra 7 265F;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T1 2025;2025;20;30 MB Intel® Smart Cache;5.3 GHz;;;Intel
+ultra 7 265t;Core Ultra 7 265T;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T1 2025;2025;20;30 MB Intel® Smart Cache;5.3 GHz;;;Intel
+ultra 9 285;Core Ultra 9 285;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T1 2025;2025;24;36 MB Intel® Smart Cache;5.6 GHz;;;Intel
+ultra 9 285t;Core Ultra 9 285T;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T1 2025;2025;24;36 MB Intel® Smart Cache;5.4 GHz;;;Intel
+ultra 5 245k;Core Ultra 5 245K;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T4 2024;2024;14;24 MB Intel® Smart Cache;5.2 GHz;;;Intel
+ultra 5 245kf;Core Ultra 5 245KF;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T4 2024;2024;14;24 MB Intel® Smart Cache;5.2 GHz;;;Intel
+ultra 7 265k;Core Ultra 7 265K;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T4 2024;2024;20;30 MB Intel® Smart Cache;5.5 GHz;;;Intel
+ultra 7 265kf;Core Ultra 7 265KF;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T4 2024;2024;20;30 MB Intel® Smart Cache;5.5 GHz;;;Intel
+ultra 9 285k;Core Ultra 9 285K;Intel Core Ultra;Core Ultra série 2;16;Arrow Lake-S;Lion Cove;T4 2024;2024;24;36 MB Intel® Smart Cache;5.7 GHz;;;Intel
+i3-14100;Core i3-14100;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;4;;4.7 GHz;12 MB Smart Cache;;Intel
+i3-14100f;Core i3-14100F;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;4;;4.7 GHz;12 MB Smart Cache;;Intel
+i3-14100t;Core i3-14100T;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;4;;4.4 GHz;12 MB Smart Cache;;Intel
+i5-14400;Core i5-14400;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;10;;4.7 GHz;20 MB Smart Cache;;Intel
+i5-14400f;Core i5-14400F;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;10;;4.7 GHz;20 MB Smart Cache;;Intel
+i5-14400t;Core i5-14400T;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;10;;4.5 GHz;20 MB Smart Cache;;Intel
+i5-14500;Core i5-14500;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;14;;5 GHz;24 MB Smart Cache;;Intel
+i5-14500t;Core i5-14500T;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;14;;4.8 GHz;24 MB Smart Cache;;Intel
+i5-14600;Core i5-14600;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;14;;5.2 GHz;24 MB Smart Cache;;Intel
+i5-14600t;Core i5-14600T;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;14;;5.1 GHz;24 MB Smart Cache;;Intel
+i7-14700;Core i7-14700;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;20;;5.4 GHz;33 MB Smart Cache;;Intel
+i7-14700f;Core i7-14700F;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;20;;5.4 GHz;33 MB Smart Cache;;Intel
+i7-14700t;Core i7-14700T;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;20;;5.2 GHz;33 MB Smart Cache;;Intel
+i9-14900;Core i9-14900;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;24;;5.8 GHz;36 MB Smart Cache;;Intel
+i9-14900f;Core i9-14900F;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;24;;5.8 GHz;36 MB Smart Cache;;Intel
+i9-14900ks;Core i9-14900KS;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;24;;6.2 GHz;36 MB Smart Cache;;Intel
+i9-14900t;Core i9-14900T;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T1 2024;2024;24;;5.5 GHz;36 MB Smart Cache;;Intel
+i3-13100;Core i3-13100;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;4;;4.50 GHz;12 MB Smart Cache;;Intel
+i3-13100f;Core i3-13100F;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;4;;4.50 GHz;12 MB Smart Cache;;Intel
+i3-13100t;Core i3-13100T;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;4;;4.20 GHz;12 MB Smart Cache;;Intel
+i5-13400;Core i5-13400;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;10;;4.60 GHz;20 MB Smart Cache;;Intel
+i5-13400f;Core i5-13400F;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;10;;4.60 GHz;20 MB Smart Cache;;Intel
+i5-13400t;Core i5-13400T;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;10;;4.40 GHz;20 MB Smart Cache;;Intel
+i5-13500;Core i5-13500;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;14;;4.80 GHz;24 MB Smart Cache;;Intel
+i5-13500t;Core i5-13500T;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;14;;4.60 GHz;24 MB Smart Cache;;Intel
+i5-13600;Core i5-13600;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;14;;5 GHz;24 MB Smart Cache;;Intel
+i5-13600t;Core i5-13600T;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;14;;4.8 GHz;24 MB Smart Cache;;Intel
+i5-14600k;Core i5-14600K;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T4 2023;2023;14;;5.3 GHz;24 MB Smart Cache;;Intel
+i5-14600kf;Core i5-14600KF;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T4 2023;2023;14;;5.3 GHz;24 MB Smart Cache;;Intel
+i7-13700;Core i7-13700;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;16;;5.20 GHz;30 MB Smart Cache;;Intel
+i7-13700f;Core i7-13700F;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;16;;5.20 GHz;30 MB Smart Cache;;Intel
+i7-13700t;Core i7-13700T;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;16;;4.90 GHz;30 MB Smart Cache;;Intel
+i7-14700k;Core i7-14700K;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T4 2023;2023;20;;5.6 GHz;33 MB Smart Cache;;Intel
+i7-14700kf;Core i7-14700KF;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T4 2023;2023;20;;5.6 GHz;33 MB Smart Cache;;Intel
+i9-13900;Core i9-13900;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;24;;5.60 GHz;36 MB Smart Cache;;Intel
+i9-13900f;Core i9-13900F;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;24;;5.60 GHz;36 MB Smart Cache;;Intel
+i9-13900ks;Core i9-13900KS;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;24;;6.00 GHz;36 MB Smart Cache;;Intel
+i9-13900t;Core i9-13900T;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T1 2023;2023;24;;5.30 GHz;36 MB Smart Cache;;Intel
+i9-14900k;Core i9-14900K;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T4 2023;2023;24;;6 GHz;36 MB Smart Cache;;Intel
+i9-14900kf;Core i9-14900KF;Intel Core i;14e génération;14;Raptor Lake Refresh-S;Raptor Cove;T4 2023;2023;24;;6 GHz;36 MB Smart Cache;;Intel
+i3-12100;Core i3-12100;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;4;;4.30 GHz;12 MB Smart Cache;;Intel
+i3-12100f;Core i3-12100F;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;4;;4.30 GHz;12 MB Smart Cache;;Intel
+i3-12100t;Core i3-12100T;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;4;;4.10 GHz;12 MB Smart Cache;;Intel
+i3-12300;Core i3-12300;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;4;;4.40 GHz;12 MB Smart Cache;;Intel
+i3-12300t;Core i3-12300T;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;4;;4.20 GHz;12 MB Smart Cache;;Intel
+i5-12400;Core i5-12400;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;6;;4.40 GHz;18 MB Smart Cache;;Intel
+i5-12400f;Core i5-12400F;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;6;;4.40 GHz;18 MB Smart Cache;;Intel
+i5-12400t;Core i5-12400T;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;6;;4.20 GHz;18 MB Smart Cache;;Intel
+i5-12500;Core i5-12500;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;6;;4.60 GHz;18 MB Smart Cache;;Intel
+i5-12500t;Core i5-12500T;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;6;;4.40 GHz;18 MB Smart Cache;;Intel
+i5-12600;Core i5-12600;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;6;;4.80 GHz;18 MB Smart Cache;;Intel
+i5-12600t;Core i5-12600T;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;6;;4.60 GHz;18 MB Smart Cache;;Intel
+i5-13600k;Core i5-13600K;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T4 2022;2022;14;;5.1 GHz;24 MB Smart Cache;;Intel
+i5-13600kf;Core i5-13600KF;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T4 2022;2022;14;;5.1 GHz;24 MB Smart Cache;;Intel
+i7-12700;Core i7-12700;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;12;;4.90 GHz;25 MB Smart Cache;;Intel
+i7-12700f;Core i7-12700F;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;12;;4.90 GHz;25 MB Smart Cache;;Intel
+i7-12700t;Core i7-12700T;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;12;;4.70 GHz;25 MB Smart Cache;;Intel
+i7-13700k;Core i7-13700K;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T4 2022;2022;16;;5.40 GHz;30 MB Smart Cache;;Intel
+i7-13700kf;Core i7-13700KF;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T4 2022;2022;16;;5.40 GHz;30 MB Smart Cache;;Intel
+i9-12900;Core i9-12900;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;16;;5.10 GHz;30 MB Smart Cache;;Intel
+i9-12900f;Core i9-12900F;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;16;;5.10 GHz;30 MB Smart Cache;;Intel
+i9-12900ks;Core i9-12900KS;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;16;;5.50 GHz;30 MB Smart Cache;;Intel
+i9-12900t;Core i9-12900T;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T1 2022;2022;16;;4.90 GHz;30 MB Smart Cache;;Intel
+i9-13900k;Core i9-13900K;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T4 2022;2022;24;;5.80 GHz;36 MB Smart Cache;;Intel
+i9-13900kf;Core i9-13900KF;Intel Core i;13e génération;13;Raptor Lake-S;Raptor Cove;T4 2022;2022;24;;5.8 GHz;36 MB Smart Cache;;Intel
+i3-10105;Core i3-10105;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T1 2021;2021;4;3.70 GHz;4.40 GHz;6 MB Smart Cache;65;Intel
+i3-10105f;Core i3-10105F;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T1 2021;2021;4;3.70 GHz;4.40 GHz;6 MB Smart Cache;65;Intel
+i3-10105t;Core i3-10105T;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T1 2021;2021;4;3.00 GHz;3.90 GHz;6 MB Smart Cache;35;Intel
+i3-10305;Core i3-10305;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T1 2021;2021;4;3.80 GHz;4.50 GHz;8 MB Smart Cache;65;Intel
+i3-10305t;Core i3-10305T;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T1 2021;2021;4;3.00 GHz;4.00 GHz;8 MB Smart Cache;35;Intel
+i3-10325;Core i3-10325;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T1 2021;2021;4;3.90 GHz;4.70 GHz;8 MB Smart Cache;65;Intel
+i5-10505;Core i5-10505;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T1 2021;2021;6;3.20 GHz;4.60 GHz;12 MB Smart Cache;65;Intel
+i5-11400;Core i5-11400;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;6;2.60 GHz;4.40 GHz;12 MB Smart Cache;65;Intel
+i5-11400f;Core i5-11400F;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;6;2.60 GHz;4.40 GHz;12 MB Smart Cache;65;Intel
+i5-11400t;Core i5-11400T;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;6;1.30 GHz;3.70 GHz;12 MB Smart Cache;35;Intel
+i5-11500;Core i5-11500;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;6;2.70 GHz;4.60 GHz;12 MB Smart Cache;65;Intel
+i5-11500t;Core i5-11500T;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;6;1.50 GHz;3.90 GHz;12 MB Smart Cache;35;Intel
+i5-11600;Core i5-11600;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;6;2.80 GHz;4.80 GHz;12 MB Smart Cache;65;Intel
+i5-11600k;Core i5-11600K;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;6;3.90 GHz;4.90 GHz;12 MB Smart Cache;125;Intel
+i5-11600kf;Core i5-11600KF;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;6;3.90 GHz;4.90 GHz;12 MB Smart Cache;125;Intel
+i5-11600t;Core i5-11600T;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;6;1.70 GHz;4.10 GHz;12 MB Smart Cache;35;Intel
+i5-12600k;Core i5-12600K;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T4 2021;2021;10;;4.90 GHz;20 MB Smart Cache;;Intel
+i5-12600kf;Core i5-12600KF;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T4 2021;2021;10;;4.90 GHz;20 MB Smart Cache;;Intel
+i7-11700;Core i7-11700;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;8;2.50 GHz;4.90 GHz;16 MB Smart Cache;65;Intel
+i7-11700f;Core i7-11700F;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;8;2.50 GHz;4.90 GHz;16 MB Smart Cache;65;Intel
+i7-11700k;Core i7-11700K;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;8;3.60 GHz;5.00 GHz;16 MB Smart Cache;125;Intel
+i7-11700kf;Core i7-11700KF;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;8;3.60 GHz;5.00 GHz;16 MB Smart Cache;125;Intel
+i7-11700t;Core i7-11700T;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;8;1.40 GHz;4.60 GHz;16 MB Smart Cache;35;Intel
+i7-12700k;Core i7-12700K;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T4 2021;2021;12;;5.00 GHz;25 MB Smart Cache;;Intel
+i7-12700kf;Core i7-12700KF;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T4 2021;2021;12;;5.00 GHz;25 MB Smart Cache;;Intel
+i9-11900;Core i9-11900;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;8;2.50 GHz;5.20 GHz;16 MB Smart Cache;65;Intel
+i9-11900f;Core i9-11900F;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;8;2.50 GHz;5.20 GHz;16 MB Smart Cache;65;Intel
+i9-11900k;Core i9-11900K;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;8;3.50 GHz;5.30 GHz;16 MB Smart Cache;125;Intel
+i9-11900kf;Core i9-11900KF;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;8;3.50 GHz;5.30 GHz;16 MB Smart Cache;125;Intel
+i9-11900t;Core i9-11900T;Intel Core i;11e génération;11;Rocket Lake-S;Cypress Cove;T1 2021;2021;8;1.50 GHz;4.90 GHz;16 MB Smart Cache;35;Intel
+i9-12900k;Core i9-12900K;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T4 2021;2021;16;;5.20 GHz;30 MB Smart Cache;;Intel
+i9-12900kf;Core i9-12900KF;Intel Core i;12e génération;12;Alder Lake-S;Golden Cove;T4 2021;2021;16;;5.20 GHz;30 MB Smart Cache;;Intel
+i3-10100;Core i3-10100;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;4;3.60 GHz;4.30 GHz;6 MB Smart Cache;65;Intel
+i3-10100f;Core i3-10100F;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T4 2020;2020;4;3.60 GHz;4.30 GHz;6 MB Smart Cache;65;Intel
+i3-10100t;Core i3-10100T;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;4;3.00 GHz;3.80 GHz;6 MB Smart Cache;35;Intel
+i3-10300;Core i3-10300;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;4;3.70 GHz;4.40 GHz;8 MB Smart Cache;65;Intel
+i3-10300t;Core i3-10300T;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;4;3.00 GHz;3.90 GHz;8 MB Smart Cache;35;Intel
+i3-10320;Core i3-10320;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;4;3.80 GHz;4.60 GHz;8 MB Smart Cache;65;Intel
+i5-10400;Core i5-10400;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;6;2.90 GHz;4.30 GHz;12 MB Smart Cache;65;Intel
+i5-10400f;Core i5-10400F;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;6;2.90 GHz;4.30 GHz;12 MB Smart Cache;65;Intel
+i5-10400t;Core i5-10400T;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;6;2.00 GHz;3.60 GHz;12 MB Smart Cache;35;Intel
+i5-10500;Core i5-10500;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;6;3.10 GHz;4.50 GHz;12 MB Smart Cache;65;Intel
+i5-10500t;Core i5-10500T;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;6;2.30 GHz;3.80 GHz;12 MB Smart Cache;35;Intel
+i5-10600;Core i5-10600;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;6;3.30 GHz;4.80 GHz;12 MB Smart Cache;65;Intel
+i5-10600k;Core i5-10600K;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;6;4.10 GHz;4.80 GHz;12 MB Smart Cache;125;Intel
+i5-10600kf;Core i5-10600KF;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;6;4.10 GHz;4.80 GHz;12 MB Smart Cache;125;Intel
+i5-10600t;Core i5-10600T;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;6;2.40 GHz;4.00 GHz;12 MB Smart Cache;35;Intel
+i7-10700;Core i7-10700;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;8;2.90 GHz;4.80 GHz;16 MB Smart Cache;65;Intel
+i7-10700f;Core i7-10700F;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;8;2.90 GHz;4.80 GHz;16 MB Smart Cache;65;Intel
+i7-10700k;Core i7-10700K;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;8;3.80 GHz;5.10 GHz;16 MB Smart Cache;125;Intel
+i7-10700kf;Core i7-10700KF;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;8;3.80 GHz;5.10 GHz;16 MB Smart Cache;125;Intel
+i7-10700t;Core i7-10700T;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;8;2.00 GHz;4.50 GHz;16 MB Smart Cache;35;Intel
+i9-10850k;Core i9-10850K;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T3 2020;2020;10;3.60 GHz;5.20 GHz;20 MB Smart Cache;125;Intel
+i9-10900;Core i9-10900;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;10;2.80 GHz;5.20 GHz;20 MB Smart Cache;65;Intel
+i9-10900f;Core i9-10900F;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;10;2.80 GHz;5.20 GHz;20 MB Smart Cache;65;Intel
+i9-10900k;Core i9-10900K;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;10;3.70 GHz;5.30 GHz;20 MB Smart Cache;125;Intel
+i9-10900kf;Core i9-10900KF;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;10;3.70 GHz;5.30 GHz;20 MB Smart Cache;125;Intel
+i9-10900t;Core i9-10900T;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T2 2020;2020;10;1.90 GHz;4.60 GHz;20 MB Smart Cache;35;Intel
+i3-9100;Core i3-9100;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;4;3.60 GHz;4.20 GHz;6 MB Smart Cache;65;Intel
+i3-9100f;Core i3-9100F;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;4;3.60 GHz;4.20 GHz;6 MB Smart Cache;65;Intel
+i3-9100t;Core i3-9100T;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;4;3.10 GHz;3.70 GHz;6 MB Smart Cache;35;Intel
+i3-9300;Core i3-9300;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;4;3.70 GHz;4.30 GHz;8 MB Smart Cache;62;Intel
+i3-9300t;Core i3-9300T;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;4;3.20 GHz;3.80 GHz;8 MB Smart Cache;35;Intel
+i3-9320;Core i3-9320;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;4;3.70 GHz;4.40 GHz;8 MB Smart Cache;62;Intel
+i3-9350k;Core i3-9350K;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;4;4.00 GHz;4.60 GHz;8 MB Smart Cache;91;Intel
+i3-9350kf;Core i3-9350KF;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T1 2019;2019;4;4.00 GHz;4.60 GHz;8 MB Smart Cache;91;Intel
+i5-9400;Core i5-9400;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T1 2019;2019;6;2.90 GHz;4.10 GHz;9 MB Smart Cache;65;Intel
+i5-9400f;Core i5-9400F;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T1 2019;2019;6;2.90 GHz;4.10 GHz;9 MB Smart Cache;65;Intel
+i5-9400t;Core i5-9400T;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;6;1.80 GHz;3.40 GHz;9 MB Smart Cache;35;Intel
+i5-9500;Core i5-9500;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;6;3.00 GHz;4.40 GHz;9 MB Smart Cache;65;Intel
+i5-9500f;Core i5-9500F;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;6;3.00 GHz;4.40 GHz;9 MB Smart Cache;65;Intel
+i5-9500t;Core i5-9500T;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;6;2.20 GHz;3.70 GHz;9 MB Smart Cache;35;Intel
+i5-9600;Core i5-9600;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;6;3.10 GHz;4.60 GHz;9 MB Smart Cache;65;Intel
+i5-9600kf;Core i5-9600KF;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T1 2019;2019;6;3.70 GHz;4.60 GHz;9 MB Smart Cache;95;Intel
+i5-9600t;Core i5-9600T;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;6;2.30 GHz;3.90 GHz;9 MB Smart Cache;35;Intel
+i7-9700;Core i7-9700;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;8;3.00 GHz;4.70 GHz;12 MB Smart Cache;65;Intel
+i7-9700f;Core i7-9700F;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;8;3.00 GHz;4.70 GHz;12 MB Smart Cache;65;Intel
+i7-9700kf;Core i7-9700KF;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T1 2019;2019;8;3.60 GHz;4.90 GHz;12 MB Smart Cache;95;Intel
+i7-9700t;Core i7-9700T;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;8;2.00 GHz;4.30 GHz;12 MB Smart Cache;35;Intel
+i9-10900x;Core i9-10900X;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T4 2019;2019;10;3.70 GHz;4.50 GHz;19.25 MB Smart Cache;165;Intel
+i9-10920x;Core i9-10920X;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T4 2019;2019;12;3.50 GHz;4.60 GHz;19.25 MB Smart Cache;165;Intel
+i9-10940x;Core i9-10940X;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T4 2019;2019;14;3.30 GHz;4.60 GHz;19.25 MB Smart Cache;165;Intel
+i9-10980xe;Core i9-10980XE;Intel Core i;10e génération;10;Comet Lake-S;Skylake (14 nm);T4 2019;2019;18;3.00 GHz;4.60 GHz;24.75 MB Smart Cache;165;Intel
+i9-9900;Core i9-9900;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;8;3.10 GHz;5.00 GHz;16 MB Smart Cache;65;Intel
+i9-9900kf;Core i9-9900KF;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T1 2019;2019;8;3.60 GHz;5.00 GHz;16 MB Smart Cache;95;Intel
+i9-9900ks;Core i9-9900KS;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T4 2019;2019;8;4.00 GHz;5.00 GHz;16 MB Smart Cache;127;Intel
+i9-9900t;Core i9-9900T;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T2 2019;2019;8;2.10 GHz;4.40 GHz;16 MB Smart Cache;35;Intel
+i3-8100b;Core i3-8100B;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T3 2018;2018;4;3.60 GHz;;6 MB Smart Cache;65;Intel
+i3-8100t;Core i3-8100T;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T2 2018;2018;4;3.10 GHz;;6 MB Smart Cache;35;Intel
+i3-8300;Core i3-8300;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T2 2018;2018;4;3.70 GHz;;8 MB Smart Cache;62;Intel
+i3-8300t;Core i3-8300T;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T2 2018;2018;4;3.20 GHz;;8 MB Smart Cache;35;Intel
+i5-8400;Core i5-8400;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T2 2018;2018;6;2.80 GHz;4.00 GHz;9 MB Smart Cache;65;Intel
+i5-8400b;Core i5-8400B;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T2 2018;2018;6;2.80 GHz;4.00 GHz;9 MB Smart Cache;65;Intel
+i5-8400t;Core i5-8400T;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T2 2018;2018;6;1.70 GHz;3.30 GHz;9 MB Smart Cache;35;Intel
+i5-8500;Core i5-8500;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T2 2018;2018;6;3.00 GHz;4.10 GHz;9 MB Smart Cache;65;Intel
+i5-8500b;Core i5-8500B;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T2 2018;2018;6;3.00 GHz;4.10 GHz;9 MB Smart Cache;65;Intel
+i5-8500t;Core i5-8500T;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T2 2018;2018;6;2.10 GHz;3.50 GHz;9 MB Smart Cache;35;Intel
+i5-8600;Core i5-8600;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T2 2018;2018;6;3.10 GHz;4.30 GHz;9 MB Smart Cache;65;Intel
+i5-8600t;Core i5-8600T;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T2 2018;2018;6;2.30 GHz;3.70 GHz;9 MB Smart Cache;35;Intel
+i5-9600k;Core i5-9600K;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T4 2018;2018;6;3.70 GHz;4.60 GHz;9 MB Smart Cache;95;Intel
+i7-8086k;Core i7-8086K;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T2 2018;2018;6;4.00 GHz;5.00 GHz;12 MB Smart Cache;95;Intel
+i7-8700;Core i7-8700;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T2 2018;2018;6;3.20 GHz;4.60 GHz;12 MB Smart Cache;65;Intel
+i7-8700b;Core i7-8700B;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T2 2018;2018;6;3.20 GHz;4.60 GHz;12 MB Smart Cache;65;Intel
+i7-8700t;Core i7-8700T;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T2 2018;2018;6;2.40 GHz;4.00 GHz;12 MB Smart Cache;35;Intel
+i7-9700k;Core i7-9700K;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T4 2018;2018;8;3.60 GHz;4.90 GHz;12 MB Smart Cache;95;Intel
+i7-9800x;Core i7-9800X;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T4 2018;2018;8;3.80 GHz;4.40 GHz;16.5 MB Smart Cache;165;Intel
+i9-9820x;Core i9-9820X;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T4 2018;2018;10;3.30 GHz;4.10 GHz;16.5 MB Smart Cache;165;Intel
+i9-9900k;Core i9-9900K;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T4 2018;2018;8;3.60 GHz;5.00 GHz;16 MB Smart Cache;95;Intel
+i9-9900x;Core i9-9900X;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T4 2018;2018;10;3.50 GHz;4.40 GHz;19.25 MB Smart Cache;165;Intel
+i9-9920x;Core i9-9920X;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T4 2018;2018;12;3.50 GHz;4.40 GHz;19.25 MB Smart Cache;165;Intel
+i9-9940x;Core i9-9940X;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T4 2018;2018;14;3.30 GHz;4.40 GHz;19.25 MB Smart Cache;165;Intel
+i9-9960x;Core i9-9960X;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T4 2018;2018;16;3.10 GHz;4.40 GHz;22 MB Smart Cache;165;Intel
+i9-9980xe;Core i9-9980XE;Intel Core i;9e génération;9;Coffee Lake Refresh-S;Coffee Lake;T4 2018;2018;18;3.00 GHz;4.40 GHz;24.75 MB Smart Cache;165;Intel
+i3-7100;Core i3-7100;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;2;3.90 GHz;;3 MB Smart Cache;51;Intel
+i3-7100t;Core i3-7100T;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;2;3.40 GHz;;3 MB Smart Cache;35;Intel
+i3-7300;Core i3-7300;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;2;4.00 GHz;;4 MB Smart Cache;51;Intel
+i3-7300t;Core i3-7300T;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;2;3.50 GHz;;4 MB Smart Cache;35;Intel
+i3-7320;Core i3-7320;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;2;4.10 GHz;;4 MB Smart Cache;51;Intel
+i3-7350k;Core i3-7350K;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;2;4.20 GHz;;4 MB Smart Cache;60;Intel
+i3-8100;Core i3-8100;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T4 2017;2017;4;3.60 GHz;;6 MB Smart Cache;65;Intel
+i3-8350k;Core i3-8350K;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T4 2017;2017;4;4.00 GHz;;8 MB Smart Cache;91;Intel
+i5-7400;Core i5-7400;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;4;3.00 GHz;3.50 GHz;6 MB Smart Cache;65;Intel
+i5-7400t;Core i5-7400T;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;4;2.40 GHz;3.00 GHz;6 MB Smart Cache;35;Intel
+i5-7500;Core i5-7500;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;4;3.40 GHz;3.80 GHz;6 MB Smart Cache;65;Intel
+i5-7500t;Core i5-7500T;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;4;2.70 GHz;3.30 GHz;6 MB Smart Cache;35;Intel
+i5-7600;Core i5-7600;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;4;3.50 GHz;4.10 GHz;6 MB Smart Cache;65;Intel
+i5-7600k;Core i5-7600K;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;4;3.80 GHz;4.20 GHz;6 MB Smart Cache;91;Intel
+i5-7600t;Core i5-7600T;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;4;2.80 GHz;3.70 GHz;6 MB Smart Cache;35;Intel
+i5-7640x;Core i5-7640X;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T2 2017;2017;4;4.00 GHz;4.20 GHz;6 MB;112;Intel
+i5-8600k;Core i5-8600K;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T4 2017;2017;6;3.60 GHz;4.30 GHz;9 MB Smart Cache;95;Intel
+i7-7700;Core i7-7700;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;4;3.60 GHz;4.20 GHz;8 MB Smart Cache;65;Intel
+i7-7700k;Core i7-7700K;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;4;4.20 GHz;4.50 GHz;8 MB Smart Cache;91;Intel
+i7-7700t;Core i7-7700T;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T1 2017;2017;4;2.90 GHz;3.80 GHz;8 MB Smart Cache;35;Intel
+i7-7740x;Core i7-7740X;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T2 2017;2017;4;4.30 GHz;4.50 GHz;8 MB;112;Intel
+i7-7800x;Core i7-7800X;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T2 2017;2017;6;3.50 GHz;4.00 GHz;8.25 MB L3 Cache;140;Intel
+i7-7820x;Core i7-7820X;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T2 2017;2017;8;3.60 GHz;4.30 GHz;11 MB L3 Cache;140;Intel
+i7-8700k;Core i7-8700K;Intel Core i;8e génération;8;Coffee Lake-S;Coffee Lake;T4 2017;2017;6;3.70 GHz;4.70 GHz;12 MB Smart Cache;95;Intel
+i9-7900x;Core i9-7900X;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T2 2017;2017;10;3.30 GHz;4.30 GHz;13.75 MB L3 Cache;140;Intel
+i9-7920x;Core i9-7920X;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T3 2017;2017;12;2.90 GHz;4.30 GHz;16.5 MB L3 Cache;140;Intel
+i9-7940x;Core i9-7940X;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T3 2017;2017;14;3.10 GHz;4.30 GHz;19.25 MB;165;Intel
+i9-7960x;Core i9-7960X;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T3 2017;2017;16;2.80 GHz;4.20 GHz;22 MB;165;Intel
+i9-7980xe;Core i9-7980XE;Intel Core i;7e génération;7;Kaby Lake;Kaby Lake;T3 2017;2017;18;2.60 GHz;4.20 GHz;24.75 MB;165;Intel
+i5-6585r;Core i5-6585R;Intel Core i;6e génération;6;Skylake;Skylake;T2 2016;2016;4;2.80 GHz;3.60 GHz;6 MB;65;Intel
+i5-6685r;Core i5-6685R;Intel Core i;6e génération;6;Skylake;Skylake;T2 2016;2016;4;3.20 GHz;3.80 GHz;6 MB;65;Intel
+i7-6785r;Core i7-6785R;Intel Core i;6e génération;6;Skylake;Skylake;T2 2016;2016;4;3.30 GHz;3.90 GHz;8 MB;65;Intel
+i7-6800k;Core i7-6800K;Intel Core i;6e génération;6;Skylake;Skylake;T2 2016;2016;6;3.40 GHz;3.60 GHz;15 MB Smart Cache;140;Intel
+i7-6850k;Core i7-6850K;Intel Core i;6e génération;6;Skylake;Skylake;T2 2016;2016;6;3.60 GHz;3.80 GHz;15 MB;140;Intel
+i7-6900k;Core i7-6900K;Intel Core i;6e génération;6;Skylake;Skylake;T2 2016;2016;8;3.20 GHz;3.70 GHz;20 MB;140;Intel
+i7-6950x;Core i7-6950X;Intel Core i;6e génération;6;Skylake;Skylake;T2 2016;2016;10;3.00 GHz;3.50 GHz;25 MB;140;Intel
+i3-4170;Core i3-4170;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T1 2015;2015;2;3.70 GHz;;3 MB;54;Intel
+i3-4170t;Core i3-4170T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T1 2015;2015;2;3.20 GHz;;3 MB;35;Intel
+i3-4370t;Core i3-4370T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T1 2015;2015;2;3.30 GHz;;4 MB;35;Intel
+i3-6098p;Core i3-6098P;Intel Core i;6e génération;6;Skylake;Skylake;T4 2015;2015;2;3.60 GHz;;3 MB;54;Intel
+i3-6100;Core i3-6100;Intel Core i;6e génération;6;Skylake;Skylake;T3 2015;2015;2;3.70 GHz;;3 MB Smart Cache;51;Intel
+i3-6100t;Core i3-6100T;Intel Core i;6e génération;6;Skylake;Skylake;T3 2015;2015;2;3.20 GHz;;3 MB Smart Cache;35;Intel
+i3-6300;Core i3-6300;Intel Core i;6e génération;6;Skylake;Skylake;T3 2015;2015;2;3.80 GHz;;4 MB Smart Cache;51;Intel
+i3-6300t;Core i3-6300T;Intel Core i;6e génération;6;Skylake;Skylake;T3 2015;2015;2;3.30 GHz;;4 MB Smart Cache;35;Intel
+i3-6320;Core i3-6320;Intel Core i;6e génération;6;Skylake;Skylake;T3 2015;2015;2;3.90 GHz;;4 MB Smart Cache;51;Intel
+i5-5575r;Core i5-5575R;Intel Core i;5e génération;5;Broadwell (fixe);Broadwell;T2 2015;2015;4;2.80 GHz;3.30 GHz;4 MB;65;Intel
+i5-5675c;Core i5-5675C;Intel Core i;5e génération;5;Broadwell (fixe);Broadwell;T2 2015;2015;4;3.10 GHz;3.60 GHz;4 MB;65;Intel
+i5-5675r;Core i5-5675R;Intel Core i;5e génération;5;Broadwell (fixe);Broadwell;T2 2015;2015;4;3.10 GHz;3.60 GHz;4 MB;65;Intel
+i5-6400;Core i5-6400;Intel Core i;6e génération;6;Skylake;Skylake;T3 2015;2015;4;2.70 GHz;3.30 GHz;6 MB Smart Cache;65;Intel
+i5-6400t;Core i5-6400T;Intel Core i;6e génération;6;Skylake;Skylake;T3 2015;2015;4;2.20 GHz;2.80 GHz;6 MB Smart Cache;35;Intel
+i5-6402p;Core i5-6402P;Intel Core i;6e génération;6;Skylake;Skylake;T4 2015;2015;4;2.80 GHz;3.40 GHz;6 MB;65;Intel
+i5-6500;Core i5-6500;Intel Core i;6e génération;6;Skylake;Skylake;T3 2015;2015;4;3.20 GHz;3.60 GHz;6 MB Smart Cache;65;Intel
+i5-6500t;Core i5-6500T;Intel Core i;6e génération;6;Skylake;Skylake;T3 2015;2015;4;2.50 GHz;3.10 GHz;6 MB Smart Cache;35;Intel
+i5-6600;Core i5-6600;Intel Core i;6e génération;6;Skylake;Skylake;T3 2015;2015;4;3.30 GHz;3.90 GHz;6 MB Smart Cache;65;Intel
+i5-6600k;Core i5-6600K;Intel Core i;6e génération;6;Skylake;Skylake;T3 2015;2015;4;3.50 GHz;3.90 GHz;6 MB Smart Cache;91;Intel
+i5-6600t;Core i5-6600T;Intel Core i;6e génération;6;Skylake;Skylake;T3 2015;2015;4;2.70 GHz;3.50 GHz;6 MB Smart Cache;35;Intel
+i7-5775c;Core i7-5775C;Intel Core i;5e génération;5;Broadwell (fixe);Broadwell;T2 2015;2015;4;3.30 GHz;3.70 GHz;6 MB;65;Intel
+i7-5775r;Core i7-5775R;Intel Core i;5e génération;5;Broadwell (fixe);Broadwell;T2 2015;2015;4;3.30 GHz;3.80 GHz;6 MB;65;Intel
+i7-6700;Core i7-6700;Intel Core i;6e génération;6;Skylake;Skylake;T3 2015;2015;4;3.40 GHz;4.00 GHz;8 MB Smart Cache;65;Intel
+i7-6700k;Core i7-6700K;Intel Core i;6e génération;6;Skylake;Skylake;T3 2015;2015;4;4.00 GHz;4.20 GHz;8 MB Smart Cache;91;Intel
+i7-6700t;Core i7-6700T;Intel Core i;6e génération;6;Skylake;Skylake;T3 2015;2015;4;2.80 GHz;3.60 GHz;8 MB Smart Cache;35;Intel
+i3-4150;Core i3-4150;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;2;3.50 GHz;;3 MB Smart Cache;54;Intel
+i3-4150t;Core i3-4150T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;2;3.00 GHz;;3 MB Smart Cache;35;Intel
+i3-4160;Core i3-4160;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T3 2014;2014;2;3.60 GHz;;3 MB Smart Cache;54;Intel
+i3-4160t;Core i3-4160T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T3 2014;2014;2;3.10 GHz;;3 MB Smart Cache;35;Intel
+i3-4350;Core i3-4350;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;2;3.60 GHz;;4 MB Smart Cache;54;Intel
+i3-4350t;Core i3-4350T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;2;3.10 GHz;;4 MB Smart Cache;35;Intel
+i3-4360;Core i3-4360;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;2;3.70 GHz;;4 MB Smart Cache;54;Intel
+i3-4360t;Core i3-4360T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T3 2014;2014;2;3.20 GHz;;4 MB Smart Cache;35;Intel
+i3-4370;Core i3-4370;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T3 2014;2014;2;3.80 GHz;;4 MB Smart Cache;54;Intel
+i5-4460;Core i5-4460;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;4;3.20 GHz;3.40 GHz;6 MB Smart Cache;84;Intel
+i5-4460s;Core i5-4460S;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;4;2.90 GHz;3.40 GHz;6 MB Smart Cache;65;Intel
+i5-4460t;Core i5-4460T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;4;1.90 GHz;2.70 GHz;6 MB Smart Cache;35;Intel
+i5-4590;Core i5-4590;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;4;3.30 GHz;3.70 GHz;6 MB Smart Cache;84;Intel
+i5-4590s;Core i5-4590S;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;4;3.00 GHz;3.70 GHz;6 MB Smart Cache;65;Intel
+i5-4590t;Core i5-4590T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;4;2.00 GHz;3.00 GHz;6 MB Smart Cache;35;Intel
+i5-4690;Core i5-4690;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;4;3.50 GHz;3.90 GHz;6 MB Smart Cache;84;Intel
+i5-4690k;Core i5-4690K;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;4;3.50 GHz;3.90 GHz;6 MB Smart Cache;88;Intel
+i5-4690s;Core i5-4690S;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;4;3.20 GHz;3.90 GHz;6 MB Smart Cache;65;Intel
+i5-4690t;Core i5-4690T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;4;2.50 GHz;3.50 GHz;6 MB Smart Cache;45;Intel
+i7-4785t;Core i7-4785T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;4;2.20 GHz;3.20 GHz;8 MB Smart Cache;35;Intel
+i7-4790;Core i7-4790;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;4;3.60 GHz;4.00 GHz;8 MB Smart Cache;84;Intel
+i7-4790k;Core i7-4790K;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;4;4.00 GHz;4.40 GHz;8 MB Smart Cache;88;Intel
+i7-4790s;Core i7-4790S;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;4;3.20 GHz;4.00 GHz;8 MB Smart Cache;65;Intel
+i7-4790t;Core i7-4790T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2014;2014;4;2.70 GHz;3.90 GHz;8 MB Smart Cache;45;Intel
+i7-5820k;Core i7-5820K;Intel Core i;5e génération;5;Broadwell (fixe);Broadwell;T3 2014;2014;6;3.30 GHz;3.60 GHz;15 MB Smart Cache;140;Intel
+i7-5930k;Core i7-5930K;Intel Core i;5e génération;5;Broadwell (fixe);Broadwell;T3 2014;2014;6;3.50 GHz;3.70 GHz;15 MB Smart Cache;140;Intel
+i7-5960x;Core i7-5960X;Intel Core i;5e génération;5;Broadwell (fixe);Broadwell;T3 2014;2014;8;3.00 GHz;3.50 GHz;20 MB Smart Cache;140;Intel
+i3-3210;Core i3-3210;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T1 2013;2013;2;3.20 GHz;;3 MB Smart Cache;55;Intel
+i3-3245;Core i3-3245;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2013;2013;2;3.40 GHz;;3 MB Smart Cache;55;Intel
+i3-3250;Core i3-3250;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2013;2013;2;3.50 GHz;;3 MB Smart Cache;55;Intel
+i3-3250t;Core i3-3250T;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2013;2013;2;3.00 GHz;;3 MB Smart Cache;35;Intel
+i3-4130;Core i3-4130;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T3 2013;2013;2;3.40 GHz;;3 MB Smart Cache;54;Intel
+i3-4130t;Core i3-4130T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T3 2013;2013;2;2.90 GHz;;3 MB Smart Cache;35;Intel
+i3-4330;Core i3-4330;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T3 2013;2013;2;3.50 GHz;;4 MB Smart Cache;54;Intel
+i3-4330t;Core i3-4330T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T3 2013;2013;2;3.00 GHz;;4 MB Smart Cache;35;Intel
+i3-4340;Core i3-4340;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T3 2013;2013;2;3.60 GHz;;4 MB Smart Cache;54;Intel
+i5-3340;Core i5-3340;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T3 2013;2013;4;3.10 GHz;3.30 GHz;6 MB Smart Cache;77;Intel
+i5-3340s;Core i5-3340S;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T3 2013;2013;4;2.80 GHz;3.30 GHz;6 MB Smart Cache;65;Intel
+i5-4430;Core i5-4430;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;3.00 GHz;3.20 GHz;6 MB Smart Cache;84;Intel
+i5-4430s;Core i5-4430S;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;2.70 GHz;3.20 GHz;6 MB Smart Cache;65;Intel
+i5-4440;Core i5-4440;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T3 2013;2013;4;3.10 GHz;3.30 GHz;6 MB Smart Cache;84;Intel
+i5-4440s;Core i5-4440S;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T3 2013;2013;4;2.80 GHz;3.30 GHz;6 MB Smart Cache;65;Intel
+i5-4570;Core i5-4570;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;3.20 GHz;3.60 GHz;6 MB Smart Cache;84;Intel
+i5-4570r;Core i5-4570R;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;2.70 GHz;3.20 GHz;4 MB Smart Cache;65;Intel
+i5-4570s;Core i5-4570S;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;2.90 GHz;3.60 GHz;6 MB Smart Cache;65;Intel
+i5-4570t;Core i5-4570T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;2;2.90 GHz;3.60 GHz;4 MB Smart Cache;35;Intel
+i5-4670;Core i5-4670;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;3.40 GHz;3.80 GHz;6 MB Smart Cache;84;Intel
+i5-4670k;Core i5-4670K;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;3.40 GHz;3.80 GHz;6 MB Smart Cache;84;Intel
+i5-4670r;Core i5-4670R;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;3.00 GHz;3.70 GHz;4 MB Smart Cache;65;Intel
+i5-4670s;Core i5-4670S;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;3.10 GHz;3.80 GHz;6 MB Smart Cache;65;Intel
+i5-4670t;Core i5-4670T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;2.30 GHz;3.30 GHz;6 MB Smart Cache;45;Intel
+i7-4765t;Core i7-4765T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;2.00 GHz;3.00 GHz;8 MB Smart Cache;35;Intel
+i7-4770;Core i7-4770;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;3.40 GHz;3.90 GHz;8 MB Smart Cache;84;Intel
+i7-4770k;Core i7-4770K;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;3.50 GHz;3.90 GHz;8 MB Smart Cache;84;Intel
+i7-4770r;Core i7-4770R;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;3.20 GHz;3.90 GHz;6 MB Smart Cache;65;Intel
+i7-4770s;Core i7-4770S;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;3.10 GHz;3.90 GHz;8 MB Smart Cache;65;Intel
+i7-4770t;Core i7-4770T;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T2 2013;2013;4;2.50 GHz;3.70 GHz;8 MB Smart Cache;45;Intel
+i7-4771;Core i7-4771;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T3 2013;2013;4;3.50 GHz;3.90 GHz;8 MB Smart Cache;84;Intel
+i7-4820k;Core i7-4820K;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T3 2013;2013;4;3.70 GHz;3.90 GHz;10 MB Smart Cache;130;Intel
+i7-4930k;Core i7-4930K;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T3 2013;2013;6;3.40 GHz;3.90 GHz;12 MB Smart Cache;130;Intel
+i7-4960x;Core i7-4960X;Intel Core i;4e génération;4;Haswell / Devil's Canyon;Haswell;T3 2013;2013;6;3.60 GHz;4.00 GHz;15 MB Smart Cache;130;Intel
+i3-3220;Core i3-3220;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T3 2012;2012;2;3.30 GHz;;3 MB Smart Cache;55;Intel
+i3-3220t;Core i3-3220T;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T3 2012;2012;2;2.80 GHz;;3 MB Smart Cache;35;Intel
+i3-3225;Core i3-3225;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T3 2012;2012;2;3.30 GHz;;3 MB Smart Cache;55;Intel
+i3-3240;Core i3-3240;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T3 2012;2012;2;3.40 GHz;;3 MB Smart Cache;55;Intel
+i3-3240t;Core i3-3240T;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T3 2012;2012;2;2.90 GHz;;3 MB Smart Cache;35;Intel
+i5-2380p;Core i5-2380P;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2012;2012;4;3.10 GHz;3.40 GHz;6 MB Smart Cache;95;Intel
+i5-2450p;Core i5-2450P;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2012;2012;4;3.20 GHz;3.50 GHz;6 MB Smart Cache;95;Intel
+i5-2550k;Core i5-2550K;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2012;2012;4;3.40 GHz;3.80 GHz;6 MB Smart Cache;95;Intel
+i5-3330;Core i5-3330;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T3 2012;2012;4;3.00 GHz;3.20 GHz;6 MB Smart Cache;77;Intel
+i5-3330s;Core i5-3330S;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T3 2012;2012;4;2.70 GHz;3.20 GHz;6 MB Smart Cache;65;Intel
+i5-3350p;Core i5-3350P;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T3 2012;2012;4;3.10 GHz;3.30 GHz;6 MB Smart Cache;69;Intel
+i5-3450;Core i5-3450;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;4;3.10 GHz;3.50 GHz;6 MB Smart Cache;77;Intel
+i5-3450s;Core i5-3450S;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;4;2.80 GHz;3.50 GHz;6 MB Smart Cache;65;Intel
+i5-3470;Core i5-3470;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;4;3.20 GHz;3.60 GHz;6 MB Smart Cache;77;Intel
+i5-3470s;Core i5-3470S;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;4;2.90 GHz;3.60 GHz;6 MB Smart Cache;65;Intel
+i5-3470t;Core i5-3470T;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;2;2.90 GHz;3.60 GHz;3 MB Smart Cache;35;Intel
+i5-3475s;Core i5-3475S;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;4;2.90 GHz;3.60 GHz;6 MB Smart Cache;65;Intel
+i5-3550;Core i5-3550;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;4;3.30 GHz;3.70 GHz;6 MB Smart Cache;77;Intel
+i5-3550s;Core i5-3550S;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;4;3.00 GHz;3.70 GHz;6 MB Smart Cache;65;Intel
+i5-3570;Core i5-3570;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;4;3.40 GHz;3.80 GHz;6 MB Smart Cache;77;Intel
+i5-3570k;Core i5-3570K;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;4;3.40 GHz;3.80 GHz;6 MB Smart Cache;77;Intel
+i5-3570s;Core i5-3570S;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;4;3.10 GHz;3.80 GHz;6 MB Smart Cache;65;Intel
+i5-3570t;Core i5-3570T;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;4;2.30 GHz;3.30 GHz;6 MB Smart Cache;45;Intel
+i7-3770;Core i7-3770;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;4;3.40 GHz;3.90 GHz;8 MB Smart Cache;77;Intel
+i7-3770k;Core i7-3770K;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;4;3.50 GHz;3.90 GHz;8 MB Smart Cache;77;Intel
+i7-3770s;Core i7-3770S;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;4;3.10 GHz;3.90 GHz;8 MB Smart Cache;65;Intel
+i7-3770t;Core i7-3770T;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T2 2012;2012;4;2.50 GHz;3.70 GHz;8 MB Smart Cache;45;Intel
+i7-3820;Core i7-3820;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T1 2012;2012;4;3.60 GHz;3.80 GHz;10 MB Smart Cache;130;Intel
+i7-3970x;Core i7-3970X;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T4 2012;2012;6;3.50 GHz;4.00 GHz;15 MB Smart Cache;150;Intel
+i3-2100;Core i3-2100;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2011;2011;2;3.10 GHz;;3 MB Smart Cache;65;Intel
+i3-2100t;Core i3-2100T;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2011;2011;2;2.50 GHz;;3 MB Smart Cache;35;Intel
+i3-2102;Core i3-2102;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T2 2011;2011;2;3.10 GHz;;3 MB Smart Cache;65;Intel
+i3-2105;Core i3-2105;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T2 2011;2011;2;3.10 GHz;;3 MB Smart Cache;65;Intel
+i3-2120;Core i3-2120;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2011;2011;2;3.30 GHz;;3 MB Smart Cache;65;Intel
+i3-2120t;Core i3-2120T;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T3 2011;2011;2;2.60 GHz;;3 MB Smart Cache;35;Intel
+i3-2125;Core i3-2125;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T3 2011;2011;2;3.30 GHz;;3 MB Smart Cache;65;Intel
+i3-2130;Core i3-2130;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T3 2011;2011;2;3.40 GHz;;3 MB Smart Cache;65;Intel
+i5-2300;Core i5-2300;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2011;2011;4;2.80 GHz;3.10 GHz;6 MB Smart Cache;95;Intel
+i5-2310;Core i5-2310;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T2 2011;2011;4;2.90 GHz;3.20 GHz;6 MB Smart Cache;95;Intel
+i5-2320;Core i5-2320;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T3 2011;2011;4;3.00 GHz;3.30 GHz;6 MB Smart Cache;95;Intel
+i5-2390t;Core i5-2390T;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2011;2011;2;2.70 GHz;3.50 GHz;3 MB Smart Cache;35;Intel
+i5-2400;Core i5-2400;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2011;2011;4;3.10 GHz;3.40 GHz;6 MB Smart Cache;95;Intel
+i5-2400s;Core i5-2400S;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2011;2011;4;2.50 GHz;3.30 GHz;6 MB Smart Cache;65;Intel
+i5-2405s;Core i5-2405S;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T2 2011;2011;4;2.50 GHz;3.30 GHz;6 MB Smart Cache;65;Intel
+i5-2500;Core i5-2500;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2011;2011;4;3.30 GHz;3.70 GHz;6 MB Smart Cache;95;Intel
+i5-2500k;Core i5-2500K;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2011;2011;4;3.30 GHz;3.70 GHz;6 MB Smart Cache;95;Intel
+i5-2500s;Core i5-2500S;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2011;2011;4;2.70 GHz;3.70 GHz;6 MB Smart Cache;65;Intel
+i5-2500t;Core i5-2500T;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2011;2011;4;2.30 GHz;3.30 GHz;6 MB Smart Cache;45;Intel
+i7-2600;Core i7-2600;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2011;2011;4;3.40 GHz;3.80 GHz;8 MB Smart Cache;95;Intel
+i7-2600k;Core i7-2600K;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2011;2011;4;3.40 GHz;3.80 GHz;8 MB Smart Cache;95;Intel
+i7-2600s;Core i7-2600S;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T1 2011;2011;4;2.80 GHz;3.80 GHz;8 MB Smart Cache;65;Intel
+i7-2700k;Core i7-2700K;Intel Core i;2e génération;2;Sandy Bridge;Sandy Bridge;T4 2011;2011;4;3.50 GHz;3.90 GHz;8 MB Smart Cache;95;Intel
+i7-3930k;Core i7-3930K;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T4 2011;2011;6;3.20 GHz;3.80 GHz;12 MB Smart Cache;130;Intel
+i7-3960x;Core i7-3960X;Intel Core i;3e génération;3;Ivy Bridge;Ivy Bridge;T4 2011;2011;6;3.30 GHz;3.90 GHz;15 MB Smart Cache;130;Intel
+core 3 304;Core 3 304;Intel Core série 3;Core série 3;;Wildcat Lake (à vérifier);;T2 2026;2026;5;;4.3 GHz;6 MB Smart Cache;;Intel
+core 3 305;Core 3 305;Intel Core série 3;Core série 3;;Wildcat Lake (à vérifier);;T2 2026;2026;6;;4.3 GHz;6 MB Smart Cache;;Intel
+core 5 315;Core 5 315;Intel Core série 3;Core série 3;;Wildcat Lake (à vérifier);;T2 2026;2026;6;;4.4 GHz;6 MB Smart Cache;;Intel
+core 5 320;Core 5 320;Intel Core série 3;Core série 3;;Wildcat Lake (à vérifier);;T2 2026;2026;6;;4.6 GHz;6 MB Smart Cache;;Intel
+core 5 330;Core 5 330;Intel Core série 3;Core série 3;;Wildcat Lake (à vérifier);;T2 2026;2026;6;;4.6 GHz;6 MB Smart Cache;;Intel
+core 7 350;Core 7 350;Intel Core série 3;Core série 3;;Wildcat Lake (à vérifier);;T2 2026;2026;6;;4.8 GHz;6 MB Smart Cache;;Intel
+core 7 360;Core 7 360;Intel Core série 3;Core série 3;;Wildcat Lake (à vérifier);;T2 2026;2026;6;;4.8 GHz;6 MB Smart Cache;;Intel
+intel 300;300;Intel Intel Processor;Intel Processor 300;;Raptor Lake (entrée de gamme);Raptor Cove;T1 2024;2024;2;;;6 MB Smart Cache;;Intel
+intel 300t;300T;Intel Intel Processor;Intel Processor 300;;Raptor Lake (entrée de gamme);Raptor Cove;T1 2024;2024;2;;;6 MB Smart Cache;;Intel

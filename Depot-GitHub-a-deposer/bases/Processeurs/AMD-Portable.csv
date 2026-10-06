@@ -1,0 +1,335 @@
+﻿Cle;Modele;Famille;Generation;Rang;NomDeCode;Architecture;Lancement;Annee;Coeurs;FreqBase;FreqTurbo;Cache;TDP;GPU;GPUCoeurs;Source
+a10-8700p;6th Gen A10-8700P APU;AMD A-Series;A10-Series APU for Laptops;;Carrizo;Excavator;;2014;4.0;1.8 GHz;3.2 GHz;L2 2 MB;15;Radeon R6;6;règle (année estimée)
+a8-8600p;6th Gen A8-8600P APU;AMD A-Series;A8-Series APU for Laptops;;Carrizo;Excavator;;2014;4.0;1.6 GHz;3 GHz;L2 2 MB;15;Radeon R6;6;règle (année estimée)
+a10-9600p;7th Gen A10-9600P APU;AMD A-Series;A10-Series APU for Laptops;;Bristol Ridge;Excavator;;2014;4.0;2.4 GHz;3.3 GHz;L2 2 MB;15;Radeon R5;6;règle (année estimée)
+a10-9630p;7th Gen A10-9630P APU;AMD A-Series;A10-Series APU for Laptops;;Bristol Ridge;Excavator;;2014;4.0;2.6 GHz;3.3 GHz;L2 2 MB;35;Radeon R5;6;règle (année estimée)
+a12-9700p;7th Gen A12-9700P APU;AMD A-Series;A12-Series APU for Laptops;;Bristol Ridge;Excavator;;2014;4.0;2.5 GHz;3.4 GHz;L2 2 MB;15;Radeon R7;6;règle (année estimée)
+a12-9730p;7th Gen A12-9730P APU;AMD A-Series;A12-Series APU for Laptops;;Bristol Ridge;Excavator;;2014;4.0;2.8 GHz;3.5 GHz;L2 2 MB;35;Radeon R7;6;règle (année estimée)
+a4-9120;7th Gen A4-9120 APU;AMD A-Series;A4-Series APU for Laptops;;Stoney Ridge;Excavator;;2014;2.0;2.2 GHz;2.5 GHz;L2 1 MB;15;Radeon R3;2;règle (année estimée)
+a4-9120c;7th Gen A4-9120C APU;AMD A-Series;A4-Series APU for Laptops;;Stoney Ridge;Excavator;;2014;2.0;1.6 GHz;2.4 GHz;L2 1 MB;6;Radeon R4;3;règle (année estimée)
+a4-9125;7th Gen A4-9125 APU;AMD A-Series;A4-Series APU for Laptops;;Stoney Ridge;Excavator;;2014;2.0;2.3 GHz;2.6 GHz;L2 1 MB;15;Radeon R3;2;règle (année estimée)
+a6-9210;7th Gen A6-9210 APU;AMD A-Series;A6-Series APU for Laptops;;Stoney Ridge;Excavator;;2014;2.0;2.4 GHz;2.8 GHz;L2 1 MB;15;Radeon R4;3;règle (année estimée)
+a6-9220;7th Gen A6-9220 APU;AMD A-Series;A6-Series APU for Laptops;;Stoney Ridge;Excavator;;2014;2.0;2.5 GHz;2.9 GHz;L2 1 MB;15;Radeon R5;3;règle (année estimée)
+a6-9220c;7th Gen A6-9220C APU;AMD A-Series;A6-Series APU for Laptops;;Stoney Ridge;Excavator;;2014;2.0;1.8 GHz;2.7 GHz;L2 1 MB;6;Radeon R5;3;règle (année estimée)
+a6-9225;7th Gen A6-9225 APU;AMD A-Series;A6-Series APU for Laptops;;Stoney Ridge;Excavator;;2014;2.0;2.6 GHz;3.1 GHz;L2 1 MB;15;Radeon R4;3;règle (année estimée)
+a9-9410;7th Gen A9-9410 APU;AMD A-Series;A9-Series APU for Laptops;;Stoney Ridge;Excavator;;2014;2.0;2.9 GHz;3.5 GHz;L2 1 MB;25;Radeon R5;3;règle (année estimée)
+a9-9420;7th Gen A9-9420 APU;AMD A-Series;A9-Series APU for Laptops;;Stoney Ridge;Excavator;;2014;2.0;3 GHz;3.6 GHz;L2 1 MB;15;Radeon R5;3;règle (année estimée)
+a9-9425;7th Gen A9-9425 APU;AMD A-Series;A9-Series APU for Laptops;;Stoney Ridge;Excavator;;2014;2.0;3.1 GHz;3.7 GHz;L2 1 MB;15;Radeon R5;3;règle (année estimée)
+a10-7300;A10-7300 with Radeon R6 Graphics;AMD A-Series;A10-Series APU for Laptops;;Kaveri;Steamroller;;2014;4.0;1.9 GHz;3.2 GHz;L2 4 MB;20;Radeon R6;6;règle (année estimée)
+a10-7400p;A10-7400P with Radeon R6 Graphics;AMD A-Series;A10-Series APU for Laptops;;Kaveri;Steamroller;;2014;4.0;2.5 GHz;3.4 GHz;L2 4 MB;35;Radeon R6;6;règle (année estimée)
+a4-5000;A4-5000 with Radeon HD 8330;AMD A-Series;A4-Series APU for Laptops;;Kabini;Jaguar;;2014;4.0;1.5 GHz;;L2 2 MB;15;Radeon HD 8330;;règle (année estimée)
+a4-5100;A4-5100 with Radeon HD 8330;AMD A-Series;A4-Series APU for Laptops;;Kabini;Jaguar;;2014;4.0;1.55 GHz;;L2 2 MB;15;Radeon HD 8330;;règle (année estimée)
+a4-6210;A4-6210 with Radeon R3 Graphics;AMD A-Series;A4-Series APU for Laptops;;Beema;Puma;;2014;4.0;1.8 GHz;;L2 2 MB;15;Radeon R3;;règle (année estimée)
+a4-7210;A4-7210 with Radeon R3 Graphics;AMD A-Series;A4-Series APU for Laptops;;Carrizo;Excavator;;2014;4.0;1.8 GHz;2.2 GHz;L2 2 MB;65;Radeon R3;;règle (année estimée)
+a6-5200m;A6-5200M with Radeon HD 8400;AMD A-Series;A6-Series APU for Laptops;;Kabini;Jaguar;;2014;4.0;2 GHz;;L2 2 MB;25;Radeon HD 8400;;règle (année estimée)
+a6-5350m;A6-5350M with Radeon HD 8450G;AMD A-Series;A6-Series APU for Laptops;;Richland;Piledriver;;2014;2.0;2.9 GHz;3.5 GHz;L2 2 MB;35;Radeon HD 8450G;;règle (année estimée)
+a6-6310;A6-6310 with Radeon R4 Graphics;AMD A-Series;A6-Series APU for Laptops;;Beema;Puma;;2014;4.0;2.4 GHz;2.4 GHz;L2 2 MB;15;Radeon R4;;règle (année estimée)
+a6-7000;A6-7000 with Radeon R4 Graphics;AMD A-Series;A6-Series APU for Laptops;;Kaveri;Steamroller;;2014;2.0;2.2 GHz;3 GHz;L2 1 MB;17;Radeon R4;3;règle (année estimée)
+a6-7310;A6-7310 with Radeon R4 Graphics;AMD A-Series;A6-Series APU for Laptops;;Carrizo;Excavator;;2014;4.0;2 GHz;2.4 GHz;L2 2 MB;15;Radeon R4;;règle (année estimée)
+a6-8500p;A6-8500P with Radeon R5 Graphics;AMD A-Series;A6-Series APU for Laptops;;Carrizo;Excavator;;2014;2.0;1.6 GHz;3 GHz;L2 1 MB;15;Radeon R5;4;règle (année estimée)
+a8-6410;A8-6410 with Radeon R5 Graphics;AMD A-Series;A8-Series APU for Laptops;;Beema;Puma;;2014;4.0;2 GHz;2.4 GHz;L2 2 MB;15;Radeon R5;;règle (année estimée)
+a8-7100;A8-7100 with Radeon R5 Graphics;AMD A-Series;A8-Series APU for Laptops;;Kaveri;Steamroller;;2014;4.0;1.8 GHz;3 GHz;L2 4 MB;20;Radeon R5;4;règle (année estimée)
+a8-7200p;A8-7200P with Radeon R5 Graphics;AMD A-Series;A8-Series APU for Laptops;;Kaveri;Steamroller;;2014;4.0;2.4 GHz;3.3 GHz;L2 4 MB;100;Radeon R5;4;règle (année estimée)
+a8-7410;A8-7410 with Radeon R5 Graphics;AMD A-Series;A8-Series APU for Laptops;;Carrizo;Excavator;;2014;4.0;2.2 GHz;2.5 GHz;L2 2 MB;15;Radeon R5;;règle (année estimée)
+a10 micro-6700t;A10 Micro-6700T with Radeon R6 Graphics;AMD A-Series;A10-Series APU for Laptops;;Richland;Piledriver;;;4.0;2.2 GHz;;L2 2 MB;4;Radeon R6;;AMD (année inconnue)
+a4 micro-6400t;A4 Micro-6400T with Radeon R3 Graphics;AMD A-Series;A4-Series APU for Laptops;;Mullins;;;;4.0;1.6 GHz;;L2 2 MB;4;Radeon R3;;AMD (année inconnue)
+3015ce;3015Ce;AMD AMD;AMD 3000 Series;;;;T2 2021;2021;2.0;1.2 GHz;2.3 GHz;L3 4 MB;6;;3;AMD
+3015e;3015e;AMD AMD;AMD 3000 Series;;Pollock;Zen;T3 2020;2020;2.0;1.2 GHz;2.3 GHz;L3 4 MB;6;;3;AMD
+3020e;3020e;AMD AMD;AMD 3000 Series;;Dali;Zen;T1 2020;2020;2.0;1.2 GHz;2.6 GHz;L3 4 MB;6;;3;AMD
+athlon gold 20;Athlon Gold 20;AMD Athlon;Athlon 10 Series;;Mendocino;Zen 2;T4 2025;2025;2.0;2.4 GHz;3.7 GHz;L3 4 MB;15;Radeon 610M;2;AMD
+athlon silver 10;Athlon Silver 10;AMD Athlon;Athlon 10 Series;;Mendocino;Zen 2;T4 2025;2025;2.0;2.4 GHz;3.5 GHz;L3 2 MB;15;Radeon 610M;2;AMD
+athlon gold 7220c;Athlon Gold 7220C;AMD Athlon;Athlon 7000 Series;;Mendocino;Zen 2;;2024;2.0;2.4 GHz;3.7 GHz;L3 2 MB;15;Radeon 610M;2;AMD (année estimée)
+athlon silver 7120c;Athlon Silver 7120C;AMD Athlon;Athlon 7000 Series;;Mendocino;Zen 2;;2024;2.0;2.4 GHz;3.5 GHz;L3 2 MB;15;Radeon 610M;2;AMD (année estimée)
+athlon 300u;Athlon 300U;AMD Athlon;Athlon 300 Series;;Picasso;Zen+;;2020;2.0;2.4 GHz;3.3 GHz;L3 4 MB;15;Radeon Vega 3;3;règle (année estimée)
+athlon gold 3150c;Athlon Gold 3150C;AMD Athlon;Athlon 3000 Series;;Dali;Zen;T3 2020;2020;2.0;2.4 GHz;3.3 GHz;L3 4 MB;15;;3;AMD
+athlon gold 3150u;Athlon Gold 3150U;AMD Athlon;Athlon 3000 Series;;Dali;Zen;T1 2020;2020;2.0;2.4 GHz;3.3 GHz;L3 4 MB;15;;3;AMD
+athlon gold 7220u;Athlon Gold 7220U;AMD Athlon;Athlon 7000 Series;;Mendocino;Zen 2;;2020;2.0;2.4 GHz;3.7 GHz;L3 4 MB;15;Radeon 610M;2;règle (année estimée)
+athlon silver 3050c;Athlon Silver 3050C;AMD Athlon;Athlon 3000 Series;;Dali;Zen;T3 2020;2020;2.0;2.3 GHz;3.2 GHz;L3 4 MB;15;;2;AMD
+athlon silver 3050u;Athlon Silver 3050U;AMD Athlon;Athlon 3000 Series;;Dali;Zen;T1 2020;2020;2.0;2.3 GHz;3.2 GHz;L3 4 MB;15;;2;AMD
+athlon silver 3050e;Athlon Silver 3050e;AMD Athlon;Athlon 3000 Series;;Dali;Zen;T1 2020;2020;2.0;1.4 GHz;2.8 GHz;L3 4 MB;6;;3;AMD
+athlon silver 7120u;Athlon Silver 7120U;AMD Athlon;Athlon 7000 Series;;Mendocino;Zen 2;;2020;2.0;2.4 GHz;3.5 GHz;L3 2 MB;15;Radeon 610M;2;règle (année estimée)
+athlon pro 200u mobile;Athlon PRO 200U Mobile Processor with Radeon Vega 3 Graphics;AMD Athlon PRO;Athlon PRO 200 Series;;Raven Ridge;Zen;;2020;2.0;2.3 GHz;3.2 GHz;L3 4 MB;15;Radeon Vega 3;3;règle (année estimée)
+athlon pro 300u mobile;Athlon PRO 300U Mobile Processor with Radeon Vega 3 Graphics;AMD Athlon PRO;Athlon PRO 300 Series;;Picasso;Zen+;;2020;2.0;2.4 GHz;3.3 GHz;L3 4 MB;15;Radeon Vega 3;3;règle (année estimée)
+athlon pro 3045b;Athlon PRO 3045B;AMD Athlon PRO;Athlon PRO 3000 Series;;Dali;Zen;;2020;2.0;2.3 GHz;3.2 GHz;L3 4 MB;15;;2;AMD (année estimée)
+athlon pro 3145b;Athlon PRO 3145B;AMD Athlon PRO;Athlon PRO 3000 Series;;Dali;Zen;;2020;2.0;2.4 GHz;3.3 GHz;L3 4 MB;15;;3;AMD (année estimée)
+e2-9010 apu;7th Gen E2-9010 APU;AMD E-Series;E2-Series APU for Laptops;;Stoney Ridge;Excavator;;;2.0;2 GHz;2.2 GHz;L2 1 MB;15;Radeon R5;2;AMD (année inconnue)
+e1 micro-6200t;E1 Micro-6200T with Radeon R2 Graphics;AMD E-Series;E1-Series APU for Laptops;;Mullins;;;;2.0;1.4 GHz;;L2 1 MB;3;Radeon R2;;AMD (année inconnue)
+e1-2100;E1-2100 with Radeon HD 8210;AMD E-Series;E1-Series APU for Laptops;;Kabini;Jaguar;;;2.0;1 GHz;;L2 1 MB;9;Radeon HD 8210;;AMD (année inconnue)
+e1-2200;E1-2200 with Radeon HD 8210;AMD E-Series;E1-Series APU for Laptops;;Kabini;Jaguar;;;2.0;1 GHz;;L2 1 MB;9;Radeon HD 8210;;AMD (année inconnue)
+e1-2500;E1-2500 with Radeon HD 8240;AMD E-Series;E1-Series APU for Laptops;;Kabini;Jaguar;;;2.0;1.4 GHz;;L2 1 MB;15;Radeon HD 8240;;AMD (année inconnue)
+e1-6010;E1-6010 with Radeon R2 Graphics;AMD E-Series;E1-Series APU for Laptops;;Beema;Puma;;;2.0;1.35 GHz;;L2 1 MB;10;Radeon R2;;AMD (année inconnue)
+e1-7010;E1-7010 with Radeon R2 Graphics;AMD E-Series;E1-Series APU for Laptops;;Carrizo;Excavator;;;2.0;1.5 GHz;1.5 GHz;L2 1 MB;10;Radeon R2;;AMD (année inconnue)
+e2-3000;E2-3000 with Radeon HD 8280;AMD E-Series;E2-Series APU for Laptops;;Kabini;Jaguar;;;2.0;1.65 GHz;;L2 1 MB;15;Radeon HD 8280;;AMD (année inconnue)
+e2-3800;E2-3800 with Radeon HD 8280;AMD E-Series;E2-Series APU for Laptops;;Kabini;Jaguar;;;4.0;1.3 GHz;;L2 2 MB;15;Radeon HD 8280;;AMD (année inconnue)
+e2-6110;E2-6110 with Radeon R2 Graphics;AMD E-Series;E2-Series APU for Laptops;;Beema;Puma;;;4.0;1.5 GHz;;L2 2 MB;15;Radeon R2;;AMD (année inconnue)
+e2-7110;E2-7110 with Radeon R2 Graphics;AMD E-Series;E2-Series APU for Laptops;;Carrizo;Excavator;;;4.0;1.8 GHz;1.8 GHz;L2 2 MB;65;Radeon R2;;AMD (année inconnue)
+fx-9800p;7th Gen FX 9800P APU;AMD FX-Series;FX-Series Processors for Laptops;;Bristol Ridge;Excavator;;2016;4.0;2.7 GHz;3.6 GHz;L2 2 MB;15;Radeon R7;8;AMD (année estimée)
+fx-9830p;7th Gen FX 9830P APU;AMD FX-Series;FX-Series Processors for Laptops;;Bristol Ridge;Excavator;;2016;4.0;3 GHz;3.7 GHz;L2 2 MB;35;Radeon R7;8;AMD (année estimée)
+fx-8800p;6th Gen FX-8800P APU;AMD FX-Series;FX-Series Processors for Laptops;;Carrizo;Excavator;;2012;4.0;2.1 GHz;3.4 GHz;L2 2 MB;15;Radeon R7;8;règle (année estimée)
+fx-7500;FX-7500 with Radeon R7 Graphics;AMD FX-Series;FX-Series Processors for Laptops;;Kaveri;Steamroller;;2012;4.0;2.1 GHz;3.3 GHz;L2 4 MB;20;Radeon R7;6;règle (année estimée)
+fx-7600p;FX-7600P with Radeon R7 Graphics;AMD FX-Series;FX-Series Processors for Laptops;;Kaveri;Steamroller;;2012;4.0;2.7 GHz;3.6 GHz;L2 4 MB;35;Radeon R7;8;règle (année estimée)
+a10-9700b;7th Gen AMD PRO A10-9700B APU;AMD PRO A-Series;PRO A-Series A10 APU for Laptops;;Bristol Ridge;Excavator;T4 2016;2016;4.0;2.5 GHz;3.4 GHz;L2 2 MB;15;;6;AMD
+a10-9730b;7th Gen AMD PRO A10-9730B APU;AMD PRO A-Series;PRO A-Series A10 APU for Laptops;;Bristol Ridge;Excavator;T4 2016;2016;4.0;2.8 GHz;3.5 GHz;L2 2 MB;35;;6;AMD
+a12-9800b;7th Gen AMD PRO A12-9800B APU;AMD PRO A-Series;PRO A-Series A12 APU for Laptops;;Bristol Ridge;Excavator;T4 2016;2016;4.0;2.7 GHz;3.6 GHz;L2 2 MB;15;;8;AMD
+a12-9830b;7th Gen AMD PRO A12-9830B APU;AMD PRO A-Series;PRO A-Series A12 APU for Laptops;;Bristol Ridge;Excavator;T4 2016;2016;4.0;3 GHz;3.7 GHz;L2 2 MB;35;;8;AMD
+a6-9500b;7th Gen AMD PRO A6-9500B APU;AMD PRO A-Series;PRO A-Series A6 APU for Laptops;;Bristol Ridge;Excavator;T4 2016;2016;2.0;2.3 GHz;3.2 GHz;L2 1 MB;15;;4;AMD
+a8-9600b;7th Gen AMD PRO A8-9600B APU;AMD PRO A-Series;PRO A-Series A8 APU for Laptops;;Bristol Ridge;Excavator;T4 2016;2016;4.0;2.4 GHz;3.3 GHz;L2 2 MB;15;;6;AMD
+a8-9630b;7th Gen AMD PRO A8-9630B;AMD PRO A-Series;PRO A-Series A8 APU for Laptops;;Bristol Ridge;Excavator;T4 2016;2016;4.0;2.6 GHz;3.3 GHz;L2 2 MB;35;;6;AMD
+a10-8700b;6th Gen AMD PRO A10-8700B APU;AMD PRO A-Series;PRO A-Series A10 APU for Laptops;;Carrizo;Excavator;;2014;4.0;1.8 GHz;3.2 GHz;L2 2 MB;15;Radeon R6;6;règle (année estimée)
+a10-8730b;6th Gen AMD PRO A10-8730B APU;AMD PRO A-Series;PRO A-Series A10 APU for Laptops;;Carrizo;Excavator;;2014;4.0;2.4 GHz;3.3 GHz;L2 2 MB;;;6;règle (année estimée)
+a12-8800b;6th Gen AMD PRO A12-8800B APU;AMD PRO A-Series;PRO A-Series A12 APU for Laptops;;Carrizo;Excavator;;2014;4.0;2.1 GHz;3.4 GHz;L2 2 MB;15;Radeon R7;8;règle (année estimée)
+a12-8830b;6th Gen AMD PRO A12-8830B APU;AMD PRO A-Series;PRO A-Series A12 APU for Laptops;;Carrizo;Excavator;;2014;4.0;2.5 GHz;3.4 GHz;L2 2 MB;;;6;règle (année estimée)
+a6-8500b;6th Gen AMD PRO A6-8500B APU;AMD PRO A-Series;PRO A-Series A6 APU for Laptops;;Carrizo;Excavator;;2014;2.0;1.6 GHz;3 GHz;L2 1 MB;15;Radeon R5;4;règle (année estimée)
+a6-8530b;6th Gen AMD PRO A6-8530B APU;AMD PRO A-Series;PRO A-Series A6 APU for Laptops;;Carrizo;Excavator;;2014;2.0;2.3 GHz;3.2 GHz;L2 1 MB;;;4;règle (année estimée)
+a8-8600b;6th Gen AMD PRO A8-8600B APU;AMD PRO A-Series;PRO A-Series A8 APU for Laptops;;Carrizo;Excavator;;2014;4.0;1.6 GHz;3 GHz;L2 2 MB;15;Radeon R6;6;règle (année estimée)
+a4-4350b;7th Gen AMD PRO A4-4350B APU;AMD PRO A-Series;PRO A-Series A4 APU for Laptops;;Stoney Ridge;Excavator;;2014;2.0;2.5 GHz;2.9 GHz;L2 1 MB;15;Radeon R4;3;règle (année estimée)
+a4-5350b;7th Gen AMD PRO A4-5350B APU;AMD PRO A-Series;PRO A-Series A4 APU for Laptops;;;;;2014;2.0;3 GHz;3.6 GHz;L2 1 MB;15;Radeon R5;3;règle (année estimée)
+a6-7350b;7th Gen AMD PRO A6-7350B APU;AMD PRO A-Series;PRO A-Series A6 APU for Laptops;;Stoney Ridge;Excavator;;2014;2.0;3 GHz;3.6 GHz;L2 1 MB;15;Radeon R5;3;règle (année estimée)
+a6-8350b;7th Gen AMD PRO A6-8350B APU;AMD PRO A-Series;PRO A-Series A6 APU for Laptops;;;;;2014;2.0;3.1 GHz;3.7 GHz;L2 1 MB;15;Radeon R5;3;règle (année estimée)
+a10 pro-7350b;A10 PRO-7350B with Radeon R6 Graphics;AMD PRO A-Series;PRO A-Series A10 APU for Laptops;;Kaveri;Steamroller;;;4.0;2.1 GHz;3.3 GHz;L2 4 MB;19;Radeon R6;6;AMD (année inconnue)
+a4 pro-3340b;A4 PRO-3340B with Radeon HD 8240 Graphics;AMD PRO A-Series;PRO A-Series A4 APU for Laptops;;Kabini;Jaguar;;;4.0;2.2 GHz;;L2 2 MB;25;Radeon HD 8240;2;AMD (année inconnue)
+a4 pro-3350b;A4 PRO-3350B with Radeon R4 Graphics;AMD PRO A-Series;PRO A-Series A4 APU for Laptops;;Carrizo;Excavator;;;4.0;2 GHz;2.4 GHz;L2 2 MB;15;Radeon R4;2;AMD (année inconnue)
+a6 pro-7050b;A6 PRO-7050B with Radeon R4 Graphics;AMD PRO A-Series;PRO A-Series A6 APU for Laptops;;Kaveri;Steamroller;;;2.0;2.2 GHz;3 GHz;L2 1 MB;100;Radeon R4;3;AMD (année inconnue)
+a8 pro-7150b;A8 PRO-7150B with Radeon R5 Graphics;AMD PRO A-Series;PRO A-Series A8 APU for Laptops;;Kaveri;Steamroller;;;4.0;1.9 GHz;3.2 GHz;L2 4 MB;100;Radeon R5;6;AMD (année inconnue)
+n640;N640;AMD Phenom;Phenom™ II Dual-Core Mobile Processors;;Phenom;K10;;;2.0;2.8 GHz;;L2 2 MB;35;;;AMD (année inconnue)
+n660;N660;AMD Phenom;Phenom™ II Dual-Core Mobile Processors;;Phenom;K10;;;2.0;3 GHz;;L2 2 MB;35;;;AMD (année inconnue)
+n870;N870;AMD Phenom;Phenom™ II Triple-Core Mobile Processors;;Phenom;K10;;;3.0;2.3 GHz;;L2 1.5 MB;35;;;AMD (année inconnue)
+n960;N960;AMD Phenom;Phenom™ II Quad-Core Mobile Processors;;Phenom;K10;;;4.0;1.8 GHz;;L2 2 MB;35;;;AMD (année inconnue)
+n970;N970;AMD Phenom;Phenom™ II Quad-Core Mobile Processors;;Phenom;K10;;;4.0;2.2 GHz;;L2 2 MB;35;;;AMD (année inconnue)
+p650;P650;AMD Phenom;Phenom™ II Dual-Core Mobile Processors;;Phenom;K10;;;2.0;2.6 GHz;;L2 2 MB;35;;;AMD (année inconnue)
+p860;P860;AMD Phenom;Phenom™ II Triple-Core Mobile Processors;;Phenom;K10;;;3.0;2 GHz;;L2 1.5 MB;35;;;AMD (année inconnue)
+x940;X940;AMD Phenom;Phenom™ II Black Edition Quad-Core Mobile Processors;;Phenom;K10;;;4.0;2.4 GHz;;L2 2 MB;45;;;AMD (année inconnue)
+ryzen 3 205;Ryzen 3 205;AMD Ryzen;Ryzen 200;8;Hawk Point;Zen 4;T2 2026;2026;4.0;2.8 GHz;4.6 GHz;L3 8 MB;28;Radeon 740M;4;AMD
+ryzen 5 125;Ryzen 5 125;AMD Ryzen;Ryzen 100;8;Hawk Point;Zen 4;T2 2026;2026;4.0;2.8 GHz;4.5 GHz;L3 8 MB;28;Radeon 740M;4;AMD
+ryzen 5 216;Ryzen 5 216;AMD Ryzen;Ryzen 200;8;Hawk Point;Zen 4;T2 2026;2026;6.0;2.9 GHz;4.7 GHz;L3 16 MB;28;Radeon 740M;4;AMD
+ryzen 5 224;Ryzen 5 224;AMD Ryzen;Ryzen 200;8;Hawk Point;Zen 4;T2 2026;2026;6.0;3.3 GHz;4.8 GHz;L3 16 MB;28;Radeon 760M;8;AMD
+ryzen 5 225;Ryzen 5 225;AMD Ryzen;Ryzen 200;8;Hawk Point;Zen 4;T2 2026;2026;6.0;4.1 GHz;4.8 GHz;L3 16 MB;45;Radeon 760M;8;AMD
+ryzen 5 439;Ryzen 5 439;AMD Ryzen;Ryzen 400;11;Gorgon Point;Zen 5;;2026;6.0;2 GHz;4.6 GHz;L3 8 MB;28;Radeon 840M;4;règle (année estimée)
+ryzen 7 155;Ryzen 7 155;AMD Ryzen;Ryzen 100;8;Hawk Point;Zen 4;T2 2026;2026;6.0;3 GHz;4.7 GHz;L3 16 MB;35;Radeon 740M;4;AMD
+ryzen 7 165;Ryzen 7 165;AMD Ryzen;Ryzen 100;8;Hawk Point;Zen 4;T2 2026;2026;6.0;3.3 GHz;4.7 GHz;L3 16 MB;28;Radeon 760M;8;AMD
+ryzen 7 217;Ryzen 7 217;AMD Ryzen;Ryzen 200;8;Hawk Point;Zen 4;T2 2026;2026;6.0;3 GHz;4.8 GHz;L3 16 MB;35;Radeon 740M;4;AMD
+ryzen 7 249;Ryzen 7 249;AMD Ryzen;Ryzen 200;8;Hawk Point;Zen 4;T2 2026;2026;8.0;3.1 GHz;4.9 GHz;L3 16 MB;28;Radeon 780M;12;AMD
+ryzen 7 253;Ryzen 7 253;AMD Ryzen;Ryzen 200;8;Hawk Point;Zen 4;T2 2026;2026;8.0;3.6 GHz;4.9 GHz;L3 16 MB;45;Radeon 780M;12;AMD
+ryzen 7 449;Ryzen 7 449;AMD Ryzen;Ryzen 400;11;Gorgon Point;Zen 5;;2026;8.0;2 GHz;5 GHz;L3 16 MB;28;Radeon 860M;8;règle (année estimée)
+ryzen 9 180;Ryzen 9 180;AMD Ryzen;Ryzen 100;8;Hawk Point;Zen 4;T2 2026;2026;8.0;3.6 GHz;4.9 GHz;L3 16 MB;45;Radeon 780M;12;AMD
+ryzen ai 5 430;Ryzen AI 5 430;AMD Ryzen;Ryzen AI 400;11;Gorgon Point;Zen 5;T1 2026;2026;4.0;2 GHz;4.5 GHz;L3 8 MB;28;Radeon 840M;4;AMD
+ryzen ai 5 435;Ryzen AI 5 435;AMD Ryzen;Ryzen AI 400;11;Gorgon Point;Zen 5;T1 2026;2026;6.0;2 GHz;4.5 GHz;L3 8 MB;28;Radeon 840M;4;AMD
+ryzen ai 7 445;Ryzen AI 7 445;AMD Ryzen;Ryzen AI 400;11;Gorgon Point;Zen 5;T1 2026;2026;6.0;2 GHz;4.6 GHz;L3 8 MB;28;Radeon 840M;4;AMD
+ryzen ai 7 450;Ryzen AI 7 450;AMD Ryzen;Ryzen AI 400;11;Gorgon Point;Zen 5;T1 2026;2026;8.0;2 GHz;5.1 GHz;L3 16 MB;28;Radeon 860M;8;AMD
+ryzen ai 9 465;Ryzen AI 9 465;AMD Ryzen;Ryzen AI 400;11;Gorgon Point;Zen 5;T1 2026;2026;10.0;2 GHz;5 GHz;L3 24 MB;28;Radeon 880M;12;AMD
+ryzen ai 9 hx 470;Ryzen AI 9 HX 470;AMD Ryzen;Ryzen AI 400;11;Gorgon Point;Zen 5;T1 2026;2026;12.0;2 GHz;5.2 GHz;L3 24 MB;28;Radeon 890M;16;AMD
+ryzen ai 9 hx 475;Ryzen AI 9 HX 475;AMD Ryzen;Ryzen AI 400;11;Gorgon Point;Zen 5;T1 2026;2026;12.0;2 GHz;5.2 GHz;L3 24 MB;28;Radeon 890M;16;AMD
+ryzen 3 110;Ryzen 3 110;AMD Ryzen;Ryzen 100;6;Rembrandt;Zen 3+;T4 2025;2025;4.0;3 GHz;4.3 GHz;L3 8 MB;28;Radeon 660M;4;AMD
+ryzen 3 210;Ryzen 3 210;AMD Ryzen;Ryzen 200;8;Hawk Point;Zen 4;T1 2025;2025;4.0;3 GHz;4.7 GHz;L3 8 MB;28;Radeon 740M;4;AMD
+ryzen 3 30;Ryzen 3 30;AMD Ryzen;Ryzen 10;7;Mendocino;Zen 2;T4 2025;2025;4.0;2.4 GHz;4.1 GHz;L3 4 MB;15;Radeon 610M;2;AMD
+ryzen 5 130;Ryzen 5 130;AMD Ryzen;Ryzen 100;6;Rembrandt;Zen 3+;T4 2025;2025;6.0;2.9 GHz;4.55 GHz;L3 16 MB;28;Radeon 660M;6;AMD
+ryzen 5 150;Ryzen 5 150;AMD Ryzen;Ryzen 100;6;Rembrandt;Zen 3+;T4 2025;2025;6.0;3.3 GHz;4.55 GHz;L3 16 MB;45;Radeon 660M;6;AMD
+ryzen 5 220;Ryzen 5 220;AMD Ryzen;Ryzen 200;8;Hawk Point;Zen 4;T1 2025;2025;6.0;3.2 GHz;4.9 GHz;L3 16 MB;28;Radeon 740M;4;AMD
+ryzen 5 230;Ryzen 5 230;AMD Ryzen;Ryzen 200;8;Hawk Point;Zen 4;T1 2025;2025;6.0;3.5 GHz;4.9 GHz;L3 16 MB;28;Radeon 760M;8;AMD
+ryzen 5 240;Ryzen 5 240;AMD Ryzen;Ryzen 200;8;Hawk Point;Zen 4;T1 2025;2025;6.0;4.3 GHz;5 GHz;L3 16 MB;45;Radeon 760M;8;AMD
+ryzen 5 40;Ryzen 5 40;AMD Ryzen;Ryzen 10;7;Mendocino;Zen 2;T4 2025;2025;4.0;2.8 GHz;4.3 GHz;L3 4 MB;15;Radeon 610M;2;AMD
+ryzen 7 160;Ryzen 7 160;AMD Ryzen;Ryzen 100;6;Rembrandt;Zen 3+;T4 2025;2025;8.0;2.7 GHz;4.75 GHz;L3 16 MB;28;Radeon 680M;12;AMD
+ryzen 7 170;Ryzen 7 170;AMD Ryzen;Ryzen 100;6;Rembrandt;Zen 3+;T4 2025;2025;8.0;3.2 GHz;4.75 GHz;L3 16 MB;45;Radeon 680M;12;AMD
+ryzen 7 250;Ryzen 7 250;AMD Ryzen;Ryzen 200;8;Hawk Point;Zen 4;T1 2025;2025;8.0;3.3 GHz;5.1 GHz;L3 16 MB;28;Radeon 780M;12;AMD
+ryzen 7 260;Ryzen 7 260;AMD Ryzen;Ryzen 200;8;Hawk Point;Zen 4;T1 2025;2025;8.0;3.8 GHz;5.1 GHz;L3 16 MB;45;Radeon 780M;12;AMD
+ryzen 7 8745hx;Ryzen 7 8745HX;AMD Ryzen;Ryzen 8000;8;Dragon Range;Zen 4;T2 2025;2025;8.0;3.6 GHz;5.1 GHz;L3 32 MB;55;Radeon 610M;2;AMD
+ryzen 7 8840hx;Ryzen 7 8840HX;AMD Ryzen;Ryzen 8000;8;Dragon Range;Zen 4;T2 2025;2025;12.0;2.9 GHz;5.1 GHz;L3 64 MB;55;Radeon 610M;2;AMD
+ryzen 9 270;Ryzen 9 270;AMD Ryzen;Ryzen 200;8;Hawk Point;Zen 4;T1 2025;2025;8.0;4 GHz;5.2 GHz;L3 16 MB;45;Radeon 780M;12;AMD
+ryzen 9 8940hx;Ryzen 9 8940HX;AMD Ryzen;Ryzen 8000;8;Dragon Range;Zen 4;T2 2025;2025;16.0;2.4 GHz;5.3 GHz;L3 64 MB;55;Radeon 610M;2;AMD
+ryzen 9 8945hx;Ryzen 9 8945HX;AMD Ryzen;Ryzen 8000;8;Dragon Range;Zen 4;T2 2025;2025;16.0;2.5 GHz;5.4 GHz;L3 64 MB;55;Radeon 610M;2;AMD
+ryzen 9 9850hx;Ryzen 9 9850HX;AMD Ryzen;Ryzen 9000;9;Fire Range;Zen 5;;2025;12.0;3 GHz;5.2 GHz;L3 64 MB;55;Radeon 610M;2;règle (année estimée)
+ryzen 9 9955hx;Ryzen 9 9955HX;AMD Ryzen;Ryzen 9000;9;Fire Range;Zen 5;;2025;16.0;2.5 GHz;5.4 GHz;L3 64 MB;55;Radeon 610M;2;règle (année estimée)
+ryzen 9 9955hx3d;Ryzen 9 9955HX3D;AMD Ryzen;Ryzen 9000;9;Fire Range;Zen 5;;2025;16.0;2.5 GHz;5.4 GHz;L3 128 MB;55;Radeon 610M;2;règle (année estimée)
+ryzen ai 5 330;Ryzen AI 5 330;AMD Ryzen;Ryzen AI 300;10;Krackan Point;Zen 5;T3 2025;2025;4.0;2 GHz;4.5 GHz;L3 8 MB;28;Radeon 820M;2;AMD
+ryzen ai 5 340;Ryzen AI 5 340;AMD Ryzen;Ryzen AI 300;10;Krackan Point;Zen 5;T1 2025;2025;6.0;2 GHz;4.8 GHz;L3 16 MB;28;Radeon 840M;4;AMD
+ryzen ai 7 345;Ryzen AI 7 345;AMD Ryzen;Ryzen AI 300;10;Krackan Point;Zen 5;T1 2025;2025;6.0;2 GHz;4.6 GHz;L3 8 MB;28;Radeon 840M;4;AMD
+ryzen ai 7 350;Ryzen AI 7 350;AMD Ryzen;Ryzen AI 300;10;Krackan Point;Zen 5;T1 2025;2025;8.0;2 GHz;5 GHz;L3 16 MB;28;Radeon 860M;8;AMD
+ryzen ai max 385;Ryzen AI Max 385;AMD Ryzen;Ryzen AI 300;10;Strix Halo;Zen 5;;2025;8.0;3.6 GHz;5 GHz;L3 32 MB;55;Radeon 8050S;32;règle (année estimée)
+ryzen ai max 390;Ryzen AI Max 390;AMD Ryzen;Ryzen AI 300;10;Strix Halo;Zen 5;;2025;12.0;3.2 GHz;5 GHz;L3 64 MB;55;Radeon 8050S;32;règle (année estimée)
+ryzen ai max+ 388;Ryzen AI Max+ 388;AMD Ryzen;Ryzen AI 300;10;Strix Halo;Zen 5;;2025;8.0;3.6 GHz;5 GHz;L3 32 MB;55;Radeon 8060S;40;règle (année estimée)
+ryzen ai max+ 392;Ryzen AI Max+ 392;AMD Ryzen;Ryzen AI 300;10;Strix Halo;Zen 5;;2025;12.0;3.2 GHz;5 GHz;L3 64 MB;55;Radeon 8060S;40;règle (année estimée)
+ryzen ai max+ 395;Ryzen AI Max+ 395;AMD Ryzen;Ryzen AI 300;10;Strix Halo;Zen 5;;2025;16.0;3 GHz;5.1 GHz;L3 64 MB;55;Radeon 8060S;40;règle (année estimée)
+ryzen 3 8440u;Ryzen 3 8440U;AMD Ryzen;Ryzen 8000;8;Hawk Point;Zen 4;;2024;4.0;3 GHz;4.7 GHz;L3 8 MB;28;Radeon 740M;4;règle (année estimée)
+ryzen 5 8540u;Ryzen 5 8540U;AMD Ryzen;Ryzen 8000;8;Hawk Point;Zen 4;;2024;6.0;3.2 GHz;4.9 GHz;L3 16 MB;28;Radeon 740M;4;règle (année estimée)
+ryzen 5 8640hs;Ryzen 5 8640HS;AMD Ryzen;Ryzen 8000;8;Hawk Point;Zen 4;;2024;6.0;3.5 GHz;4.9 GHz;L3 16 MB;28;Radeon 760M;8;règle (année estimée)
+ryzen 5 8640u;Ryzen 5 8640U;AMD Ryzen;Ryzen 8000;8;Hawk Point;Zen 4;;2024;6.0;3.5 GHz;4.9 GHz;L3 16 MB;28;Radeon 760M;8;règle (année estimée)
+ryzen 5 8645hs;Ryzen 5 8645HS;AMD Ryzen;Ryzen 8000;8;Hawk Point;Zen 4;;2024;6.0;4.3 GHz;5 GHz;L3 16 MB;45;Radeon 760M;8;règle (année estimée)
+ryzen 7 7840hx;Ryzen 7 7840HX;AMD Ryzen;Ryzen 7000;7;Dragon Range;Zen 4;T1 2024;2024;12.0;2.9 GHz;5.1 GHz;L3 64 MB;55;Radeon 610M;2;AMD
+ryzen 7 8745hs;Ryzen 7 8745HS;AMD Ryzen;Ryzen 8000;8;Hawk Point;Zen 4;T2 2024;2024;8.0;3.8 GHz;4.9 GHz;L3 16 MB;45;Radeon 780M;12;AMD
+ryzen 7 8840hs;Ryzen 7 8840HS;AMD Ryzen;Ryzen 8000;8;Hawk Point;Zen 4;;2024;8.0;3.3 GHz;5.1 GHz;L3 16 MB;28;Radeon 780M;12;règle (année estimée)
+ryzen 7 8840u;Ryzen 7 8840U;AMD Ryzen;Ryzen 8000;8;Hawk Point;Zen 4;;2024;8.0;3.3 GHz;5.1 GHz;L3 16 MB;28;Radeon 780M;12;règle (année estimée)
+ryzen 9 7940hx;Ryzen 9 7940HX;AMD Ryzen;Ryzen 7000;7;Dragon Range;Zen 4;T1 2024;2024;16.0;2.4 GHz;5.2 GHz;L3 64 MB;55;Radeon 610M;2;AMD
+ryzen 9 8945hs;Ryzen 9 8945HS;AMD Ryzen;Ryzen 8000;8;Hawk Point;Zen 4;;2024;8.0;4 GHz;5.2 GHz;L3 16 MB;45;Radeon 780M;12;règle (année estimée)
+ryzen ai 9 365;Ryzen AI 9 365;AMD Ryzen;Ryzen AI 300;10;Strix Point;Zen 5;T3 2024;2024;10.0;2 GHz;5 GHz;L3 24 MB;28;Radeon 880M;12;AMD (année corrigée : sortie réelle 2024)
+ryzen ai 9 hx 370;Ryzen AI 9 HX 370;AMD Ryzen;Ryzen AI 300;10;Strix Point;Zen 5;T3 2024;2024;12.0;2 GHz;5.1 GHz;L3 24 MB;28;Radeon 890M;16;AMD (année corrigée : sortie réelle 2024)
+ryzen ai 9 hx 375;Ryzen AI 9 HX 375;AMD Ryzen;Ryzen AI 300;10;Strix Point;Zen 5;T3 2024;2024;12.0;2 GHz;5.1 GHz;L3 24 MB;28;Radeon 890M;16;AMD (année corrigée : sortie réelle 2024)
+ryzen 3 7320c;Ryzen 3 7320C;AMD Ryzen;Ryzen 7000;7;Mendocino;Zen 2;T2 2023;2023;4.0;2.4 GHz;4.1 GHz;L3 4 MB;15;Radeon 610M;2;AMD
+ryzen 3 7330u;Ryzen 3 7330U;AMD Ryzen;Ryzen 7000;7;Barcelo R;Zen 3;;2023;4.0;2.3 GHz;4.3 GHz;L3 8 MB;15;;6;AMD (année estimée)
+ryzen 3 7335u;Ryzen 3 7335U;AMD Ryzen;Ryzen 7000;7;Rembrandt R;Zen 3+;;2023;4.0;3 GHz;4.3 GHz;L3 8 MB;28;Radeon 660M;4;règle (année estimée)
+ryzen 3 7440u;Ryzen 3 7440U;AMD Ryzen;Ryzen 7000;7;Phoenix;Zen 4;T2 2023;2023;4.0;3 GHz;4.7 GHz;L3 8 MB;28;Radeon 740M;4;AMD
+ryzen 5 5500h;Ryzen 5 5500H;AMD Ryzen;Ryzen 5000;5;Cezanne;Zen 3;T2 2023;2023;4.0;3.3 GHz;4.2 GHz;L3 8 MB;45;;6;AMD
+ryzen 5 7235hs;Ryzen 5 7235HS;AMD Ryzen;Ryzen 7000;7;Rembrandt R;Zen 3+;;2023;4.0;3.2 GHz;4.2 GHz;L3 8 MB;45;;;AMD (année estimée)
+ryzen 5 7430u;Ryzen 5 7430U;AMD Ryzen;Ryzen 7000;7;Barcelo R;Zen 3;;2023;6.0;2.3 GHz;4.3 GHz;L3 16 MB;15;;7;règle (année estimée)
+ryzen 5 7520c;Ryzen 5 7520C;AMD Ryzen;Ryzen 7000;7;Mendocino;Zen 2;T2 2023;2023;4.0;2.8 GHz;4.3 GHz;L3 4 MB;15;Radeon 610M;2;AMD
+ryzen 5 7530u;Ryzen 5 7530U;AMD Ryzen;Ryzen 7000;7;Barcelo R;Zen 3;;2023;6.0;2 GHz;4.5 GHz;L3 16 MB;15;;7;règle (année estimée)
+ryzen 5 7533hs;Ryzen 5 7533HS;AMD Ryzen;Ryzen 7000;7;Rembrandt R;Zen 3+;;2023;6.0;3.3 GHz;4.4 GHz;L3 16 MB;54;Radeon 660M;6;AMD (année estimée)
+ryzen 5 7535hs;Ryzen 5 7535HS;AMD Ryzen;Ryzen 7000;7;Rembrandt R;Zen 3+;;2023;6.0;3.3 GHz;4.55 GHz;L3 16 MB;54;Radeon 660M;6;règle (année estimée)
+ryzen 5 7535u;Ryzen 5 7535U;AMD Ryzen;Ryzen 7000;7;Rembrandt R;Zen 3+;;2023;6.0;2.9 GHz;4.55 GHz;L3 16 MB;28;Radeon 660M;6;règle (année estimée)
+ryzen 5 7540u;Ryzen 5 7540U;AMD Ryzen;Ryzen 7000;7;Phoenix;Zen 4;T2 2023;2023;6.0;3.2 GHz;4.9 GHz;L3 16 MB;28;Radeon 740M;4;AMD
+ryzen 5 7545u;Ryzen 5 7545U;AMD Ryzen;Ryzen 7000;7;Phoenix;Zen 4;T4 2023;2023;6.0;3.2 GHz;4.9 GHz;L3 16 MB;28;Radeon 740M;4;AMD
+ryzen 5 7640hs;Ryzen 5 7640HS;AMD Ryzen;Ryzen 7000;7;Phoenix;Zen 4;T2 2023;2023;6.0;4.3 GHz;5 GHz;L3 16 MB;54;Radeon 760M;8;AMD
+ryzen 5 7640u;Ryzen 5 7640U;AMD Ryzen;Ryzen 7000;7;Phoenix;Zen 4;T2 2023;2023;6.0;3.5 GHz;4.9 GHz;L3 16 MB;28;Radeon 760M;8;AMD
+ryzen 5 7645hx;Ryzen 5 7645HX;AMD Ryzen;Ryzen 7000;7;Dragon Range;Zen 4;T1 2023;2023;6.0;4 GHz;5 GHz;L3 32 MB;55;Radeon 610M;2;AMD
+ryzen 7 7435hs;Ryzen 7 7435HS;AMD Ryzen;Ryzen 7000;7;Rembrandt R;Zen 3+;;2023;8.0;3.1 GHz;4.5 GHz;L3 16 MB;45;;;règle (année estimée)
+ryzen 7 7445hs;Ryzen 7 7445HS;AMD Ryzen;Ryzen 7000;7;Phoenix;Zen 4;T2 2023;2023;6.0;3.55 GHz;4.7 GHz;L3 16 MB;35;Radeon 740M;4;AMD
+ryzen 7 7730u;Ryzen 7 7730U;AMD Ryzen;Ryzen 7000;7;Barcelo R;Zen 3;;2023;8.0;2 GHz;4.5 GHz;L3 16 MB;15;;8;règle (année estimée)
+ryzen 7 7735hs;Ryzen 7 7735HS;AMD Ryzen;Ryzen 7000;7;Rembrandt R;Zen 3+;;2023;8.0;3.2 GHz;4.75 GHz;L3 16 MB;54;Radeon 680M;12;règle (année estimée)
+ryzen 7 7735u;Ryzen 7 7735U;AMD Ryzen;Ryzen 7000;7;Rembrandt R;Zen 3+;;2023;8.0;2.7 GHz;4.75 GHz;L3 16 MB;28;Radeon 680M;12;règle (année estimée)
+ryzen 7 7745hx;Ryzen 7 7745HX;AMD Ryzen;Ryzen 7000;7;Dragon Range;Zen 4;T1 2023;2023;8.0;3.6 GHz;5.1 GHz;L3 32 MB;55;Radeon 610M;2;AMD
+ryzen 7 7840hs;Ryzen 7 7840HS;AMD Ryzen;Ryzen 7000;7;Phoenix;Zen 4;;2023;8.0;3.8 GHz;5.1 GHz;L3 16 MB;54;Radeon 780M;12;règle (année estimée)
+ryzen 7 7840u;Ryzen 7 7840U;AMD Ryzen;Ryzen 7000;7;Phoenix;Zen 4;T2 2023;2023;8.0;3.3 GHz;5.1 GHz;L3 16 MB;28;Radeon 780M;12;AMD
+ryzen 7 8845hs;Ryzen 7 8845HS;AMD Ryzen;Ryzen 8000;8;Hawk Point;Zen 4;T4 2023;2023;8.0;3.8 GHz;5.1 GHz;L3 16 MB;45;Radeon 780M;12;AMD
+ryzen 9 7845hx;Ryzen 9 7845HX;AMD Ryzen;Ryzen 7000;7;Dragon Range;Zen 4;T1 2023;2023;12.0;3 GHz;5.2 GHz;L3 64 MB;55;Radeon 610M;2;AMD
+ryzen 9 7940hs;Ryzen 9 7940HS;AMD Ryzen;Ryzen 7000;7;Phoenix;Zen 4;T2 2023;2023;8.0;4 GHz;5.2 GHz;L3 16 MB;54;Radeon 780M;12;AMD
+ryzen 9 7945hx;Ryzen 9 7945HX;AMD Ryzen;Ryzen 7000;7;Dragon Range;Zen 4;T1 2023;2023;16.0;2.5 GHz;5.4 GHz;L3 64 MB;55;Radeon 610M;2;AMD
+ryzen 9 7945hx3d;Ryzen 9 7945HX3D;AMD Ryzen;Ryzen 7000;7;Dragon Range;Zen 4;T3 2023;2023;16.0;2.3 GHz;5.4 GHz;L3 128 MB;55;Radeon 610M;2;AMD
+ryzen 3 5125c;Ryzen 3 5125C;AMD Ryzen;Ryzen 5000;5;Barcelo;Zen 3;T2 2022;2022;2.0;3 GHz;3 GHz;L3 8 MB;15;;3;AMD
+ryzen 3 5425c;Ryzen 3 5425C;AMD Ryzen;Ryzen 5000;5;Barcelo;Zen 3;;2022;4.0;2.7 GHz;4.1 GHz;L3 8 MB;15;;6;AMD (année estimée)
+ryzen 3 5425u;Ryzen 3 5425U;AMD Ryzen;Ryzen 5000;5;Barcelo;Zen 3;T1 2022;2022;4.0;2.7 GHz;4.1 GHz;L3 8 MB;15;;6;AMD
+ryzen 3 7320u;Ryzen 3 7320U;AMD Ryzen;Ryzen 7000;7;Mendocino;Zen 2;T3 2022;2022;4.0;2.4 GHz;4.1 GHz;L3 4 MB;15;Radeon 610M;2;AMD
+ryzen 5 5625c;Ryzen 5 5625C;AMD Ryzen;Ryzen 5000;5;Barcelo;Zen 3;;2022;6.0;2.3 GHz;4.3 GHz;L3 16 MB;15;;7;AMD (année estimée)
+ryzen 5 5625u;Ryzen 5 5625U;AMD Ryzen;Ryzen 5000;5;Barcelo;Zen 3;T1 2022;2022;6.0;2.3 GHz;4.3 GHz;L3 16 MB;15;;7;AMD
+ryzen 5 6600h;Ryzen 5 6600H;AMD Ryzen;Ryzen 6000;6;Rembrandt;Zen 3+;;2022;6.0;3.3 GHz;4.5 GHz;L3 16 MB;45;Radeon 660M;6;règle (année estimée)
+ryzen 5 6600hs;Ryzen 5 6600HS​;AMD Ryzen;Ryzen 6000;6;Rembrandt;Zen 3+;;2022;6.0;3.3 GHz;4.5 GHz;L3 16 MB;35;Radeon 660M;6;règle (année estimée)
+ryzen 5 6600u;Ryzen 5 6600U;AMD Ryzen;Ryzen 6000;6;Rembrandt;Zen 3+;T2 2022;2022;6.0;2.9 GHz;4.5 GHz;L3 16 MB;;Radeon 660M;6;AMD
+ryzen 5 7520u;Ryzen 5 7520U;AMD Ryzen;Ryzen 7000;7;Mendocino;Zen 2;T3 2022;2022;4.0;2.8 GHz;4.3 GHz;L3 4 MB;15;Radeon 610M;2;AMD
+ryzen 7 5825c;Ryzen 7 5825C;AMD Ryzen;Ryzen 5000;5;Barcelo;Zen 3;;2022;8.0;2 GHz;4.5 GHz;L3 16 MB;15;;8;AMD (année estimée)
+ryzen 7 5825u;Ryzen 7 5825U;AMD Ryzen;Ryzen 5000;5;Barcelo;Zen 3;T1 2022;2022;8.0;2 GHz;4.5 GHz;L3 16 MB;15;;8;AMD
+ryzen 7 6800h;Ryzen 7 6800H;AMD Ryzen;Ryzen 6000;6;Rembrandt;Zen 3+;;2022;8.0;3.2 GHz;4.7 GHz;L3 16 MB;45;Radeon 680M;12;règle (année estimée)
+ryzen 7 6800hs;Ryzen 7 6800HS;AMD Ryzen;Ryzen 6000;6;Rembrandt;Zen 3+;;2022;8.0;3.2 GHz;4.7 GHz;L3 16 MB;35;Radeon 680M;12;règle (année estimée)
+ryzen 7 6800u;Ryzen 7 6800U​;AMD Ryzen;Ryzen 6000;6;Rembrandt;Zen 3+;T2 2022;2022;8.0;2.7 GHz;4.7 GHz;L3 16 MB;;Radeon 680M;12;AMD
+ryzen 9 6900hs;Ryzen 9 6900HS​;AMD Ryzen;Ryzen 6000;6;Rembrandt;Zen 3+;;2022;8.0;3.3 GHz;4.9 GHz;L3 16 MB;35;Radeon 680M;12;règle (année estimée)
+ryzen 9 6900hx;Ryzen 9 6900HX;AMD Ryzen;Ryzen 6000;6;Rembrandt;Zen 3+;;2022;8.0;3.3 GHz;4.9 GHz;L3 16 MB;45;Radeon 680M;12;règle (année estimée)
+ryzen 9 6980hs;Ryzen 9 6980HS;AMD Ryzen;Ryzen 6000;6;Rembrandt;Zen 3+;;2022;8.0;3.3 GHz;5 GHz;L3 16 MB;35;Radeon 680M;12;règle (année estimée)
+ryzen 9 6980hx;Ryzen 9 6980HX;AMD Ryzen;Ryzen 6000;6;Rembrandt;Zen 3+;;2022;8.0;3.3 GHz;5 GHz;L3 16 MB;45;Radeon 680M;12;règle (année estimée)
+ryzen 3 5300u;Ryzen 3 5300U;AMD Ryzen;Ryzen 5000;5;Lucienne;Zen 2;T1 2021;2021;4.0;2.6 GHz;3.8 GHz;L3 4 MB;15;;6;AMD
+ryzen 3 5400u;Ryzen 3 5400U;AMD Ryzen;Ryzen 5000;5;Cezanne;Zen 3;T1 2021;2021;4.0;2.6 GHz;4 GHz;L3 8 MB;15;;6;AMD
+ryzen 5 4680u;Ryzen 5 4680U Microsoft Surface Edition;AMD Ryzen;Ryzen 4000;4;Renoir;Zen 2;T2 2021;2021;6.0;2.2 GHz;4 GHz;L3 8 MB;15;;7;AMD
+ryzen 5 5500u;Ryzen 5 5500U;AMD Ryzen;Ryzen 5000;5;Lucienne;Zen 2;T1 2021;2021;6.0;2.1 GHz;4 GHz;L3 8 MB;15;;7;AMD
+ryzen 5 5560u;Ryzen 5 5560U;AMD Ryzen;Ryzen 5000;5;Cezanne;Zen 3;T1 2021;2021;6.0;2.3 GHz;4 GHz;L3 8 MB;15;;6;AMD
+ryzen 5 5600h;Ryzen 5 5600H;AMD Ryzen;Ryzen 5000;5;Cezanne;Zen 3;T1 2021;2021;6.0;3.3 GHz;4.2 GHz;L3 16 MB;45;;7;AMD
+ryzen 5 5600hs;Ryzen 5 5600HS;AMD Ryzen;Ryzen 5000;5;Cezanne;Zen 3;T1 2021;2021;6.0;3 GHz;4.2 GHz;L3 16 MB;35;;7;AMD
+ryzen 5 5600u;Ryzen 5 5600U;AMD Ryzen;Ryzen 5000;5;Cezanne;Zen 3;T1 2021;2021;6.0;2.3 GHz;4.2 GHz;L3 16 MB;15;;7;AMD
+ryzen 7 4980u;Ryzen 7 4980U Microsoft Surface Edition;AMD Ryzen;Ryzen 4000;4;Renoir;Zen 2;T2 2021;2021;8.0;2 GHz;4.4 GHz;L3 8 MB;15;;8;AMD
+ryzen 7 5700u;Ryzen 7 5700U;AMD Ryzen;Ryzen 5000;5;Lucienne;Zen 2;T1 2021;2021;8.0;1.8 GHz;4.3 GHz;L3 8 MB;15;;8;AMD
+ryzen 7 5800h;Ryzen 7 5800H;AMD Ryzen;Ryzen 5000;5;Cezanne;Zen 3;T1 2021;2021;8.0;3.2 GHz;4.4 GHz;L3 16 MB;45;;8;AMD
+ryzen 7 5800hs;Ryzen 7 5800HS;AMD Ryzen;Ryzen 5000;5;Cezanne;Zen 3;T1 2021;2021;8.0;2.8 GHz;4.4 GHz;L3 16 MB;35;;8;AMD
+ryzen 7 5800u;Ryzen 7 5800U;AMD Ryzen;Ryzen 5000;5;Cezanne;Zen 3;T1 2021;2021;8.0;1.9 GHz;4.4 GHz;L3 16 MB;15;;8;AMD
+ryzen 9 5900hs;Ryzen 9 5900HS;AMD Ryzen;Ryzen 5000;5;Cezanne;Zen 3;T1 2021;2021;8.0;3 GHz;4.6 GHz;L3 16 MB;35;;;AMD
+ryzen 9 5900hx;Ryzen 9 5900HX;AMD Ryzen;Ryzen 5000;5;Cezanne;Zen 3;T1 2021;2021;8.0;3.3 GHz;4.6 GHz;L3 16 MB;;;8;AMD
+ryzen 9 5980hs;Ryzen 9 5980HS;AMD Ryzen;Ryzen 5000;5;Cezanne;Zen 3;T1 2021;2021;8.0;3 GHz;4.8 GHz;L3 16 MB;35;;8;AMD
+ryzen 9 5980hx;Ryzen 9 5980HX;AMD Ryzen;Ryzen 5000;5;Cezanne;Zen 3;T1 2021;2021;8.0;3.3 GHz;4.8 GHz;L3 16 MB;;;8;AMD
+ryzen 3 3250c;Ryzen 3 3250C;AMD Ryzen;Ryzen 3000;3;Picasso;Zen+;T3 2020;2020;2.0;2.6 GHz;3.5 GHz;L3 4 MB;15;;3;AMD
+ryzen 3 3250u;Ryzen 3 3250U;AMD Ryzen;Ryzen 3000;3;Dali;Zen;T1 2020;2020;2.0;2.6 GHz;3.5 GHz;L3 4 MB;15;;3;AMD
+ryzen 3 4300u;Ryzen 3 4300U;AMD Ryzen;Ryzen 4000;4;Renoir;Zen 2;T1 2020;2020;4.0;2.7 GHz;3.7 GHz;L3 4 MB;15;;5;AMD
+ryzen 5 3500c;Ryzen 5 3500C;AMD Ryzen;Ryzen 3000;3;Picasso;Zen+;T3 2020;2020;4.0;2.1 GHz;3.7 GHz;L3 4 MB;15;;8;AMD
+ryzen 5 4500u;Ryzen 5 4500U;AMD Ryzen;Ryzen 4000;4;Renoir;Zen 2;T1 2020;2020;6.0;2.3 GHz;4 GHz;L3 8 MB;15;;6;AMD
+ryzen 5 4600h;Ryzen 5 4600H;AMD Ryzen;Ryzen 4000;4;Renoir;Zen 2;T1 2020;2020;6.0;3 GHz;4 GHz;L3 8 MB;45;;6;AMD
+ryzen 5 4600u;Ryzen 5 4600U;AMD Ryzen;Ryzen 4000;4;Renoir;Zen 2;T1 2020;2020;6.0;2.1 GHz;4 GHz;L3 8 MB;15;;6;AMD
+ryzen 5 7525u;Ryzen 5 7525U;AMD Ryzen;Ryzen 7000;7;;;;2020;4.0;2.8 GHz;3.8 GHz;L3 4 MB;15;;8;AMD (année estimée)
+ryzen 7 3700c;Ryzen 7 3700C;AMD Ryzen;Ryzen 3000;3;Picasso;Zen+;T3 2020;2020;4.0;2.3 GHz;4 GHz;L3 4 MB;15;;10;AMD
+ryzen 7 4700u;Ryzen 7 4700U;AMD Ryzen;Ryzen 4000;4;Renoir;Zen 2;T1 2020;2020;8.0;2 GHz;4.1 GHz;L3 8 MB;15;;7;AMD
+ryzen 7 4800h;Ryzen 7 4800H;AMD Ryzen;Ryzen 4000;4;Renoir;Zen 2;T1 2020;2020;8.0;2.9 GHz;4.2 GHz;L3 8 MB;45;;7;AMD
+ryzen 7 4800hs;Ryzen 7 4800HS;AMD Ryzen;Ryzen 4000;4;Renoir;Zen 2;;2020;8.0;2.9 GHz;4.2 GHz;L3 8 MB;45;;7;règle (année estimée)
+ryzen 7 4800u;Ryzen 7 4800U;AMD Ryzen;Ryzen 4000;4;Renoir;Zen 2;T1 2020;2020;8.0;1.8 GHz;4.2 GHz;L3 8 MB;15;;8;AMD
+ryzen 9 4900h;Ryzen 9 4900H;AMD Ryzen;Ryzen 4000;4;Renoir;Zen 2;T1 2020;2020;8.0;3.3 GHz;4.4 GHz;L3 8 MB;54;;8;AMD
+ryzen 9 4900hs;Ryzen 9 4900HS;AMD Ryzen;Ryzen 4000;4;Renoir;Zen 2;;2020;8.0;3 GHz;4.3 GHz;L3 8 MB;35;;8;règle (année estimée)
+ryzen 3 3100u;Ryzen 3 3100U;AMD Ryzen;Ryzen 3000;3;Picasso;Zen+;;2019;2.0;1.9 GHz;3.2 GHz;L3 4 MB;15;Radeon Vega 8;8;règle (année estimée)
+ryzen 3 3200u;Ryzen 3 3200U;AMD Ryzen;Ryzen 3000;3;Picasso;Zen+;;2019;2.0;2.6 GHz;3.5 GHz;L3 4 MB;15;Radeon Vega 3;3;règle (année estimée)
+ryzen 3 3300u;Ryzen 3 3300U;AMD Ryzen;Ryzen 3000;3;Picasso;Zen+;;2019;4.0;2.1 GHz;3.5 GHz;L3 4 MB;15;Radeon Vega 6;6;règle (année estimée)
+ryzen 3 3350u;Ryzen 3 3350U;AMD Ryzen;Ryzen 3000;3;Picasso;Zen+;;2019;4.0;2.1 GHz;3.5 GHz;L3 4 MB;15;Radeon Vega 6;6;règle (année estimée)
+ryzen 5 3450u;Ryzen 5 3450U;AMD Ryzen;Ryzen 3000;3;Picasso;Zen+;;2019;4.0;2.1 GHz;3.5 GHz;L3 4 MB;15;Radeon Vega 8;;règle (année estimée)
+ryzen 5 3500u;Ryzen 5 3500U;AMD Ryzen;Ryzen 3000;3;Picasso;Zen+;;2019;4.0;2.1 GHz;3.7 GHz;L3 4 MB;15;Radeon Vega 8;8;règle (année estimée)
+ryzen 5 3501u;Ryzen 5 3501U;AMD Ryzen;Ryzen 3000;3;Picasso;Zen+;;2019;4.0;2.1 GHz;3.7 GHz;L3 4 MB;15;Radeon Vega 8;8;règle (année estimée)
+ryzen 5 3550h;Ryzen 5 3550H;AMD Ryzen;Ryzen 3000;3;Picasso;Zen+;;2019;4.0;2.1 GHz;3.7 GHz;L3 4 MB;35;Radeon Vega 8;8;règle (année estimée)
+ryzen 5 3580u;Ryzen 5 3580U Microsoft Surface Edition;AMD Ryzen;Ryzen 3000;3;Picasso;Zen+;;2019;4.0;2.1 GHz;3.7 GHz;L3 4 MB;15;Radeon Vega 9;9;règle (année estimée)
+ryzen 7 3700u;Ryzen 7 3700U;AMD Ryzen;Ryzen 3000;3;Picasso;Zen+;;2019;4.0;2.3 GHz;4 GHz;L3 4 MB;15;Radeon RX Vega 10;10;règle (année estimée)
+ryzen 7 3750h;Ryzen 7 3750H;AMD Ryzen;Ryzen 3000;3;Picasso;Zen+;;2019;4.0;2.3 GHz;4 GHz;L3 4 MB;35;Radeon RX Vega 10;10;règle (année estimée)
+ryzen 7 3780u;Ryzen 7 3780U Microsoft Surface Edition;AMD Ryzen;Ryzen 3000;3;Picasso;Zen+;;2019;4.0;2.3 GHz;4 GHz;L3 4 MB;15;Radeon RX Vega 11;11;règle (année estimée)
+ryzen 3 2200u;Ryzen 3 2200U;AMD Ryzen;Ryzen 2000;2;Raven Ridge;Zen;T1 2018;2018;2.0;2.5 GHz;3.4 GHz;L3 4 MB;15;Radeon Vega 3;3;AMD
+ryzen 3 2300u;Ryzen 3 2300U;AMD Ryzen;Ryzen 2000;2;Raven Ridge;Zen;T1 2018;2018;4.0;2 GHz;3.4 GHz;L3 4 MB;15;Radeon Vega 6;6;AMD
+ryzen 5 2600h;Ryzen 5 2600H;AMD Ryzen;Ryzen 2000;2;Raven Ridge;Zen;T3 2018;2018;4.0;3.2 GHz;3.6 GHz;L3 4 MB;45;Radeon Vega 8;8;AMD
+ryzen 7 2800h;Ryzen 7 2800H;AMD Ryzen;Ryzen 2000;2;Raven Ridge;Zen;T3 2018;2018;4.0;3.3 GHz;3.8 GHz;L3 4 MB;45;Radeon RX Vega 11;11;AMD
+ryzen 5 2500u;Ryzen 5 2500U;AMD Ryzen;Ryzen 2000;2;Raven Ridge;Zen;T4 2017;2017;4.0;2 GHz;3.6 GHz;L3 4 MB;15;Radeon Vega 8;8;AMD
+ryzen 7 2700u;Ryzen 7 2700U;AMD Ryzen;Ryzen 2000;2;Raven Ridge;Zen;T4 2017;2017;4.0;2.2 GHz;3.8 GHz;L3 4 MB;15;Radeon RX Vega 10;10;AMD
+ryzen 3 pro 205;Ryzen 3 PRO 205;AMD Ryzen PRO;Ryzen 200;8;Hawk Point;Zen 4;T2 2026;2026;4.0;2.8 GHz;4.6 GHz;L3 8 MB;28;Radeon 740M;4;AMD
+ryzen 5 pro 216;Ryzen 5 PRO 216;AMD Ryzen PRO;Ryzen 200;8;Hawk Point;Zen 4;T2 2026;2026;6.0;2.9 GHz;4.7 GHz;L3 16 MB;28;Radeon 740M;4;AMD
+ryzen 5 pro 224;Ryzen 5 PRO 224;AMD Ryzen PRO;Ryzen 200;8;Hawk Point;Zen 4;T2 2026;2026;6.0;3.3 GHz;4.8 GHz;L3 16 MB;28;Radeon 760M;8;AMD
+ryzen 5 pro 225;Ryzen 5 PRO 225;AMD Ryzen PRO;Ryzen 200;8;Hawk Point;Zen 4;T2 2026;2026;6.0;3.3 GHz;4.8 GHz;L3 16 MB;45;Radeon 760M;8;AMD
+ryzen 7 pro 217;Ryzen 7 PRO 217;AMD Ryzen PRO;Ryzen 200;8;Hawk Point;Zen 4;T2 2026;2026;6.0;3 GHz;4.8 GHz;L3 16 MB;35;Radeon 740M;4;AMD
+ryzen 7 pro 249;Ryzen 7 PRO 249;AMD Ryzen PRO;Ryzen 200;8;Hawk Point;Zen 4;T2 2026;2026;8.0;3.1 GHz;4.9 GHz;L3 16 MB;28;Radeon 780M;12;AMD
+ryzen 7 pro 253;Ryzen 7 PRO 253;AMD Ryzen PRO;Ryzen 200;8;Hawk Point;Zen 4;T2 2026;2026;8.0;3.6 GHz;4.9 GHz;L3 16 MB;45;Radeon 780M;12;AMD
+ryzen ai 5 pro 435;Ryzen AI 5 PRO 435;AMD Ryzen PRO;Ryzen AI 400;11;Gorgon Point;Zen 5;T1 2026;2026;6.0;2 GHz;4.5 GHz;L3 8 MB;28;Radeon 840M;4;AMD
+ryzen ai 5 pro 440;Ryzen AI 5 PRO 440;AMD Ryzen PRO;Ryzen AI 400;11;Gorgon Point;Zen 5;T1 2026;2026;6.0;2 GHz;4.8 GHz;L3 16 MB;28;Radeon 840M;4;AMD
+ryzen ai 7 pro 450;Ryzen AI 7 PRO 450;AMD Ryzen PRO;Ryzen AI 400;11;Gorgon Point;Zen 5;T1 2026;2026;8.0;2 GHz;5.1 GHz;L3 16 MB;28;Radeon 860M;8;AMD
+ryzen ai 9 hx pro 470;Ryzen AI 9 HX PRO 470;AMD Ryzen PRO;Ryzen AI 400;11;Gorgon Point;Zen 5;T1 2026;2026;12.0;2 GHz;5.2 GHz;L3 24 MB;28;Radeon 890M;16;AMD
+ryzen ai 9 hx pro 475;Ryzen AI 9 HX PRO 475;AMD Ryzen PRO;Ryzen AI 400;11;Gorgon Point;Zen 5;T1 2026;2026;12.0;2 GHz;5.2 GHz;L3 24 MB;28;Radeon 890M;16;AMD
+ryzen ai 9 pro 465;Ryzen AI 9 PRO 465;AMD Ryzen PRO;Ryzen AI 400;11;Gorgon Point;Zen 5;T1 2026;2026;10.0;2 GHz;5 GHz;L3 24 MB;28;Radeon 890M;12;AMD
+ryzen 3 pro 210;Ryzen 3 PRO 210;AMD Ryzen PRO;Ryzen 200;8;Hawk Point;Zen 4;T1 2025;2025;4.0;3 GHz;4.7 GHz;L3 8 MB;28;Radeon 740M;4;AMD
+ryzen 5 pro 215;Ryzen 5 PRO 215;AMD Ryzen PRO;Ryzen 200;8;Hawk Point;Zen 4;T1 2025;2025;6.0;3.2 GHz;4.7 GHz;L3 16 MB;28;Radeon 740M;4;AMD
+ryzen 5 pro 220;Ryzen 5 PRO 220;AMD Ryzen PRO;Ryzen 200;8;Hawk Point;Zen 4;T1 2025;2025;6.0;3.2 GHz;4.9 GHz;L3 16 MB;28;Radeon 740M;4;AMD
+ryzen 5 pro 230;Ryzen 5 PRO 230;AMD Ryzen PRO;Ryzen 200;8;Hawk Point;Zen 4;T1 2025;2025;6.0;3.5 GHz;4.9 GHz;L3 16 MB;28;Radeon 760M;8;AMD
+ryzen 7 pro 250;Ryzen 7 PRO 250;AMD Ryzen PRO;Ryzen 200;8;Hawk Point;Zen 4;T1 2025;2025;8.0;3.3 GHz;5.1 GHz;L3 16 MB;28;Radeon 780M;12;AMD
+ryzen 7 pro 6860z;Ryzen 7 PRO 6860Z;AMD Ryzen PRO;Ryzen 6000;6;Rembrandt;Zen 3+;;2025;8.0;2.7 GHz;4.75 GHz;L3 16 MB;28;Radeon 680M;12;AMD (année estimée)
+ryzen ai 5 pro 340;Ryzen AI 5 PRO 340;AMD Ryzen PRO;Ryzen AI 300;10;Krackan Point;Zen 5;T1 2025;2025;6.0;2 GHz;4.8 GHz;L3 16 MB;28;Radeon 840M;4;AMD
+ryzen ai 7 pro 350;Ryzen AI 7 PRO 350;AMD Ryzen PRO;Ryzen AI 300;10;Krackan Point;Zen 5;T1 2025;2025;8.0;2 GHz;5 GHz;L3 16 MB;28;Radeon 860M;8;AMD
+ryzen ai max pro 380;Ryzen AI Max PRO 380;AMD Ryzen PRO;Ryzen AI 300;10;Strix Halo;Zen 5;;2025;6.0;3.6 GHz;4.9 GHz;L3 16 MB;55;Radeon 8040S;16;règle (année estimée)
+ryzen ai max pro 385;Ryzen AI Max PRO 385;AMD Ryzen PRO;Ryzen AI 300;10;Strix Halo;Zen 5;;2025;8.0;3.6 GHz;5 GHz;L3 32 MB;55;Radeon 8050S;32;règle (année estimée)
+ryzen ai max pro 390;Ryzen AI Max PRO 390;AMD Ryzen PRO;Ryzen AI 300;10;Strix Halo;Zen 5;;2025;12.0;3.2 GHz;5 GHz;L3 64 MB;55;Radeon 8050S;32;règle (année estimée)
+ryzen ai max+ pro 395;Ryzen AI Max+ PRO 395;AMD Ryzen PRO;Ryzen AI 300;10;Strix Halo;Zen 5;;2025;16.0;3 GHz;5.1 GHz;L3 64 MB;55;Radeon 8060S;40;règle (année estimée)
+ryzen 5 pro 8540u;Ryzen 5 PRO 8540U;AMD Ryzen PRO;Ryzen 8000;8;Hawk Point;Zen 4;;2024;6.0;3.2 GHz;4.9 GHz;L3 16 MB;28;Radeon 740M;4;règle (année estimée)
+ryzen 5 pro 8640hs;Ryzen 5 PRO 8640HS;AMD Ryzen PRO;Ryzen 8000;8;Hawk Point;Zen 4;;2024;6.0;3.5 GHz;4.9 GHz;L3 16 MB;28;Radeon 760M;8;règle (année estimée)
+ryzen 5 pro 8640u;Ryzen 5 PRO 8640U;AMD Ryzen PRO;Ryzen 8000;8;Hawk Point;Zen 4;;2024;6.0;3.5 GHz;4.9 GHz;L3 16 MB;28;Radeon 760M;8;règle (année estimée)
+ryzen 5 pro 8645hs;Ryzen 5 PRO 8645HS;AMD Ryzen PRO;Ryzen 8000;8;Hawk Point;Zen 4;;2024;6.0;4.3 GHz;5 GHz;L3 16 MB;45;Radeon 760M;8;règle (année estimée)
+ryzen 7 pro 8840hs;Ryzen 7 PRO 8840HS;AMD Ryzen PRO;Ryzen 8000;8;Hawk Point;Zen 4;;2024;8.0;3.3 GHz;5.1 GHz;L3 16 MB;28;Radeon 780M;12;règle (année estimée)
+ryzen 7 pro 8840u;Ryzen 7 PRO 8840U;AMD Ryzen PRO;Ryzen 8000;8;Hawk Point;Zen 4;;2024;8.0;3.3 GHz;5.1 GHz;L3 16 MB;28;Radeon 780M;12;règle (année estimée)
+ryzen 7 pro 8845hs;Ryzen 7 PRO 8845HS;AMD Ryzen PRO;Ryzen 8000;8;Hawk Point;Zen 4;T2 2024;2024;8.0;3.8 GHz;5.1 GHz;L3 16 MB;45;Radeon 780M;12;AMD
+ryzen 9 pro 8945hs;Ryzen 9 PRO 8945HS;AMD Ryzen PRO;Ryzen 8000;8;Hawk Point;Zen 4;;2024;8.0;4 GHz;5.2 GHz;L3 16 MB;45;Radeon 780M;12;règle (année estimée)
+ryzen ai 7 pro 360;Ryzen AI 7 PRO 360;AMD Ryzen PRO;Ryzen AI 300;10;Strix Point;Zen 5;T4 2024;2024;8.0;2 GHz;5 GHz;L3 16 MB;28;Radeon 880M;12;AMD (année corrigée : sortie réelle 2024)
+ryzen ai 9 hx pro 370;Ryzen AI 9 HX PRO 370;AMD Ryzen PRO;Ryzen AI 300;10;Strix Point;Zen 5;T4 2024;2024;12.0;2 GHz;5.1 GHz;L3 24 MB;28;Radeon 890M;16;AMD (année corrigée : sortie réelle 2024)
+ryzen ai 9 hx pro 375;Ryzen AI 9 HX PRO 375;AMD Ryzen PRO;Ryzen AI 300;10;Strix Point;Zen 5;T4 2024;2024;12.0;2 GHz;5.1 GHz;L3 24 MB;28;Radeon 890M;16;AMD (année corrigée : sortie réelle 2024)
+ryzen 3 pro 7330u;Ryzen 3 PRO 7330U;AMD Ryzen PRO;Ryzen 7000;7;Barcelo R;Zen 3;T1 2023;2023;4.0;2.3 GHz;4.3 GHz;L3 8 MB;15;;6;AMD
+ryzen 3 pro 7335u;Ryzen 3 PRO 7335U;AMD Ryzen PRO;Ryzen 7000;7;Rembrandt R;Zen 3+;T3 2023;2023;4.0;3 GHz;4.3 GHz;L2 8 MB;;Radeon 660M;4;AMD
+ryzen 5 pro 7530u;Ryzen 5 PRO 7530U;AMD Ryzen PRO;Ryzen 7000;7;Barcelo R;Zen 3;T1 2023;2023;6.0;2 GHz;4.5 GHz;L3 16 MB;15;;7;AMD
+ryzen 5 pro 7535u;Ryzen 5 PRO 7535U;AMD Ryzen PRO;Ryzen 7000;7;Rembrandt R;Zen 3+;T3 2023;2023;6.0;2.9 GHz;4.55 GHz;L3 16 MB;;Radeon 660M;6;AMD
+ryzen 5 pro 7540u;Ryzen 5 PRO 7540U;AMD Ryzen PRO;Ryzen 7000;7;Phoenix;Zen 4;T2 2023;2023;6.0;3.2 GHz;4.9 GHz;L3 16 MB;;Radeon 740M;4;AMD
+ryzen 5 pro 7640hs;Ryzen 5 PRO 7640HS;AMD Ryzen PRO;Ryzen 7000;7;Phoenix;Zen 4;T2 2023;2023;6.0;4.3 GHz;5 GHz;L3 16 MB;;Radeon 760M;8;AMD
+ryzen 5 pro 7640u;Ryzen 5 PRO 7640U;AMD Ryzen PRO;Ryzen 7000;7;Phoenix;Zen 4;T2 2023;2023;6.0;3.5 GHz;4.9 GHz;L3 16 MB;;Radeon 760M;8;AMD
+ryzen 7 pro 7730u;Ryzen 7 PRO 7730U;AMD Ryzen PRO;Ryzen 7000;7;Barcelo R;Zen 3;T1 2023;2023;8.0;2 GHz;4.5 GHz;L3 16 MB;15;;8;AMD
+ryzen 7 pro 7735u;Ryzen 7 PRO 7735U;AMD Ryzen PRO;Ryzen 7000;7;Rembrandt R;Zen 3+;T3 2023;2023;8.0;2.7 GHz;4.75 GHz;L3 16 MB;;Radeon 680M;12;AMD
+ryzen 7 pro 7840hs;Ryzen 7 PRO 7840HS;AMD Ryzen PRO;Ryzen 7000;7;Phoenix;Zen 4;T2 2023;2023;8.0;3.8 GHz;5.1 GHz;L3 16 MB;;Radeon 780M;12;AMD
+ryzen 7 pro 7840u;Ryzen 7 PRO 7840U;AMD Ryzen PRO;Ryzen 7000;7;Phoenix;Zen 4;T2 2023;2023;8.0;3.3 GHz;5.1 GHz;L3 16 MB;;Radeon 780M;12;AMD
+ryzen 9 pro 7940hs;Ryzen 9 PRO 7940HS;AMD Ryzen PRO;Ryzen 7000;7;Phoenix;Zen 4;T2 2023;2023;8.0;4 GHz;5.2 GHz;L3 16 MB;;Radeon 780M;12;AMD
+ryzen 3 pro 5475u;Ryzen 3 PRO 5475U;AMD Ryzen PRO;Ryzen 5000;5;Barcelo;Zen 3;T1 2022;2022;4.0;2.7 GHz;4.1 GHz;L3 8 MB;15;;6;AMD
+ryzen 5 pro 5675u;Ryzen 5 PRO 5675U;AMD Ryzen PRO;Ryzen 5000;5;Barcelo;Zen 3;T1 2022;2022;6.0;2.3 GHz;4.3 GHz;L3 16 MB;15;;7;AMD
+ryzen 5 pro 6650h;Ryzen 5 PRO 6650H;AMD Ryzen PRO;Ryzen 6000;6;Rembrandt;Zen 3+;;2022;6.0;3.3 GHz;4.5 GHz;L3 16 MB;45;Radeon 660M;6;règle (année estimée)
+ryzen 5 pro 6650hs;Ryzen 5 PRO 6650HS;AMD Ryzen PRO;Ryzen 6000;6;Rembrandt;Zen 3+;;2022;6.0;3.3 GHz;4.5 GHz;L3 16 MB;35;Radeon 660M;6;règle (année estimée)
+ryzen 5 pro 6650u;Ryzen 5 PRO 6650U;AMD Ryzen PRO;Ryzen 6000;6;Rembrandt;Zen 3+;T2 2022;2022;6.0;2.9 GHz;4.5 GHz;L3 16 MB;;Radeon 660M;6;AMD
+ryzen 7 pro 5875u;Ryzen 7 PRO 5875U;AMD Ryzen PRO;Ryzen 5000;5;Barcelo;Zen 3;T1 2022;2022;8.0;2 GHz;4.5 GHz;L3 16 MB;15;;8;AMD
+ryzen 7 pro 6850h;Ryzen 7 PRO 6850H;AMD Ryzen PRO;Ryzen 6000;6;Rembrandt;Zen 3+;;2022;8.0;3.2 GHz;4.7 GHz;L3 16 MB;45;Radeon 680M;12;règle (année estimée)
+ryzen 7 pro 6850hs;Ryzen 7 PRO 6850HS;AMD Ryzen PRO;Ryzen 6000;6;Rembrandt;Zen 3+;;2022;8.0;3.2 GHz;4.7 GHz;L3 16 MB;35;Radeon 680M;12;règle (année estimée)
+ryzen 7 pro 6850u;Ryzen 7 PRO 6850U;AMD Ryzen PRO;Ryzen 6000;6;Rembrandt;Zen 3+;;2022;8.0;2.7 GHz;4.7 GHz;L3 16 MB;;Radeon 680M;12;règle (année estimée)
+ryzen 9 pro 6950h;Ryzen 9 PRO 6950H;AMD Ryzen PRO;Ryzen 6000;6;Rembrandt;Zen 3+;;2022;8.0;3.3 GHz;4.9 GHz;L3 16 MB;45;Radeon 680M;12;règle (année estimée)
+ryzen 9 pro 6950hs;Ryzen 9 PRO 6950HS;AMD Ryzen PRO;Ryzen 6000;6;Rembrandt;Zen 3+;;2022;8.0;3.3 GHz;4.9 GHz;L3 16 MB;35;Radeon 680M;12;règle (année estimée)
+ryzen 3 pro 5450u;Ryzen 3 PRO 5450U;AMD Ryzen PRO;Ryzen 5000;5;Cezanne;Zen 3;T1 2021;2021;4.0;2.6 GHz;4 GHz;L3 8 MB;15;;6;AMD
+ryzen 5 pro 5650u;Ryzen 5 PRO 5650U;AMD Ryzen PRO;Ryzen 5000;5;Cezanne;Zen 3;T1 2021;2021;6.0;2.3 GHz;4.2 GHz;L3 16 MB;15;;7;AMD
+ryzen 7 pro 5850u;Ryzen 7 PRO 5850U;AMD Ryzen PRO;Ryzen 5000;5;Cezanne;Zen 3;T1 2021;2021;8.0;1.9 GHz;4.4 GHz;L3 16 MB;15;;8;AMD
+ryzen 3 pro 4450u;Ryzen 3 PRO 4450U;AMD Ryzen PRO;Ryzen 4000;4;Renoir;Zen 2;T2 2020;2020;4.0;2.5 GHz;3.7 GHz;L3 4 MB;15;;5;AMD
+ryzen 5 pro 4650u;Ryzen 5 PRO 4650U;AMD Ryzen PRO;Ryzen 4000;4;Renoir;Zen 2;T2 2020;2020;6.0;2.1 GHz;4 GHz;L3 8 MB;15;;6;AMD
+ryzen 7 pro 4750u;Ryzen 7 PRO 4750U;AMD Ryzen PRO;Ryzen 4000;4;Renoir;Zen 2;T2 2020;2020;8.0;1.7 GHz;4.1 GHz;L3 8 MB;15;;7;AMD
+ryzen 3 pro 3300u;Ryzen 3 PRO 3300U;AMD Ryzen PRO;Ryzen 3000;3;Picasso;Zen+;T2 2019;2019;4.0;2.1 GHz;3.5 GHz;L3 4 MB;15;Radeon Vega 6;6;AMD
+ryzen 5 pro 3500u;Ryzen 5 PRO 3500U;AMD Ryzen PRO;Ryzen 3000;3;Picasso;Zen+;T2 2019;2019;4.0;2.1 GHz;3.7 GHz;L3 4 MB;15;Radeon Vega 8;8;AMD
+ryzen 7 pro 3700u;Ryzen 7 PRO 3700U;AMD Ryzen PRO;Ryzen 3000;3;Picasso;Zen+;T2 2019;2019;4.0;2.3 GHz;4 GHz;L3 4 MB;15;Radeon Vega 10;10;AMD
+ryzen 3 pro 2300u;Ryzen 3 PRO 2300U;AMD Ryzen PRO;Ryzen 2000;2;Raven Ridge;Zen;;2018;4.0;2 GHz;3.4 GHz;L3 4 MB;15;Radeon Vega 6;6;règle (année estimée)
+ryzen 5 pro 2500u;Ryzen 5 PRO 2500U;AMD Ryzen PRO;Ryzen 2000;2;Raven Ridge;Zen;;2018;4.0;2 GHz;3.6 GHz;L3 4 MB;15;Radeon Vega 8;8;règle (année estimée)
+ryzen 7 pro 2700u;Ryzen 7 PRO 2700U;AMD Ryzen PRO;Ryzen 2000;2;Raven Ridge;Zen;;2018;4.0;2.2 GHz;3.8 GHz;L3 4 MB;15;Radeon Vega 10;10;règle (année estimée)
